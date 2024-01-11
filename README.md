@@ -1,7 +1,7 @@
 <h1 align="center">Greetings, I'm OrcDev</h1>
 <h3 align="center">A web dev warrior</h3>
 
-- 📝 I regularly make videos [https://www.youtube.com/@orcdev](https://www.youtube.com/@orcdev)
+-  I regularly make videos [https://www.youtube.com/@orcdev](https://www.youtube.com/@orcdev)
 
 <p align="left">
 </p>
