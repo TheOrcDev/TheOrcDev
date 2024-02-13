@@ -1,7 +1,10 @@
-<h1 align="center">Greetings, I'm OrcDev</h1>
+<h1 align="center">Greetings Warrior! I'm OrcDev</h1>
 <h3 align="center">A web dev warrior</h3>
 
 -  I regularly make videos [https://www.youtube.com/@orcdev](https://www.youtube.com/@orcdev)
+
+-  Join the Horde!
+-  Discord: https://discord.com/invite/uFB5YzH9YG
 
 <p align="left">
 </p>
