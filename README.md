@@ -4,8 +4,10 @@
 
 
 <h3>Join the Horde! ⚔️</h3>
--  I regularly make videos https://www.youtube.com/@orcdev
--  Discord: https://discord.com/invite/uFB5YzH9YG
+<ul>
+  <li>I regularly make videos <a href="https://www.youtube.com/@orcdev">@orcdev</a></li>
+  <li>Discord: <a href="https://discord.com/invite/uFB5YzH9YG">Join our server</a></li>
+</ul>
 
 <p align="left">
 </p>
