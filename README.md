@@ -3,7 +3,7 @@
 
 -  I regularly make videos [https://www.youtube.com/@orcdev](https://www.youtube.com/@orcdev)
 
--  Join the Horde!
+<h3>Join the Horde!</h3>
 -  Discord: https://discord.com/invite/uFB5YzH9YG
 
 <p align="left">
