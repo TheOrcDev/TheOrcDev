@@ -10,6 +10,8 @@
   <li>Website: <a href="https://orcdev.com">OrcDev</a></li>
 </ul>
 
+<a href="https://app.daily.dev/orcdev"><img src="https://api.daily.dev/devcards/v2/pWEhX8JhjnUQB2l4CNVSW.png?r=ehy&type=wide" width="652" alt="Orc Dev's Dev Card"/></a>
+
 <p align="left">
 </p>
 
