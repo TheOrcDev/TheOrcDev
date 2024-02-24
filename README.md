@@ -14,6 +14,6 @@
 
 <h3 align="left">Weapons and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,vue,php,nestjs,tailwind&theme=light)](https://skillicons.dev#gh-dark-mode-only)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,vue,php,nodejs,nestjs,tailwind&theme=light)](https://skillicons.dev#gh-dark-mode-only)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,vue,php,nestjs,tailwind&theme=dark)](https://skillicons.dev#gh-light-mode-only)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,vue,php,nodejs,nestjs,tailwind&theme=dark)](https://skillicons.dev#gh-light-mode-only)
