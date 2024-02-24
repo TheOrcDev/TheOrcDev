@@ -12,9 +12,6 @@
 
 <a href="https://app.daily.dev/orcdev"><img src="https://api.daily.dev/devcards/v2/pWEhX8JhjnUQB2l4CNVSW.png?r=ehy&type=wide" width="652" alt="Orc Dev's Dev Card"/></a>
 
-<p align="left">
-</p>
-
 <h3 align="left">Weapons and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
