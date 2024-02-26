@@ -5,7 +5,7 @@
 
 <h3>Join the Horde! ⚔️</h3>
 <ul>
-  <li>I regularly make videos <a href="https://www.youtube.com/@orcdev">@orcdev</a></li>
+  <li>I regularly make videos: <a href="https://www.youtube.com/@orcdev">@orcdev</a></li>
   <li>Discord: <a href="https://discord.com/invite/uFB5YzH9YG">Invitation to the Horde</a></li>
   <li>Website: <a href="https://orcdev.com">OrcDev</a></li>
 </ul>
