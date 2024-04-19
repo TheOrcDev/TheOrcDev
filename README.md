@@ -1,8 +1,6 @@
 <h1 align="center">Greetings Warrior! I'm OrcDev</h1>
 <h3 align="center">A true code warrior</h3>
 
-
-
 <h3>Join the Horde! ⚔️</h3>
 <ul>
   <li>YouTube: <a href="https://www.youtube.com/@orcdev">@orcdev</a></li>
