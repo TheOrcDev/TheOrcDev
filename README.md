@@ -8,7 +8,7 @@
   <li>Website: <a href="https://orcdev.com">OrcDev</a></li>
 </ul>
 
-<a href="https://app.daily.dev/orcdev"><img src="https://api.daily.dev/devcards/v2/pWEhX8JhjnUQB2l4CNVSW.png?r=ehy&type=wide" width="652" alt="Orc Dev's Dev Card"/></a>
+<a href="https://app.daily.dev/orcdev"><img src="https://api.daily.dev/devcards/v2/pWEhX8JhjnUQB2l4CNVSW.png?type=wide&r=2ah" width="652" alt="Orc Dev's Dev Card"/></a>
 
 <h3 align="left">Weapons and Tools:</h3>
 
