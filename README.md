@@ -1,5 +1,13 @@
 <h1 align="center">Greetings Warrior! I'm OrcDev</h1>
-<h3 align="center">A true code warrior</h3>
+
+<a href="https://orcdev.com/banner?warrior=869a6c8386505f42723beeb5fdf17fdaa51030b00d86a3e3c9c5a9550cb946a7">
+  <img
+    src="https://orcdev.com/banners/869a6c8386505f42723beeb5fdf17fdaa51030b00d86a3e3c9c5a9550cb946a7.png"
+    width="180"
+    height="180"
+    alt="OrcDev's Dev Card"
+  />
+</a>
 
 <h3>Join the Horde! ⚔️</h3>
 <ul>
