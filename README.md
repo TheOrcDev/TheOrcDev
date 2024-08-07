@@ -13,7 +13,7 @@
 
 <h3>Join the Mighty Horde! ⚔️</h3>
 <ul>
-  <li>YouTube: <a href="https://www.youtube.com/@orcdev">@orcdev</a></li>
+  <li>YouTube: <a href="https://www.youtube.com/@orcdev">@OrcDev</a></li>
   <li>Discord: <a href="https://discord.com/invite/uFB5YzH9YG">Invitation to the Horde</a></li>
   <li>Website: <a href="https://orcdev.com">OrcDev.com</a></li>
 </ul>
