@@ -19,8 +19,6 @@
   <li>X: <a href="https://x.com/theorcdev">TheOrcDev</a></li>
 </ul>
 
-<a href="https://app.daily.dev/orcdev"><img src="https://api.daily.dev/devcards/v2/pWEhX8JhjnUQB2l4CNVSW.png?type=wide&r=r5b" width="652" alt="Orc Dev's Dev Card"/></a>
-
 <h3 align="left">Weapons and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,vue,nodejs,nestjs,tailwind,php&theme=light)](https://skillicons.dev#gh-dark-mode-only)
