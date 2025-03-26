@@ -1,15 +1,13 @@
 <h1 align="center">Greetings! I'm OrcDev</h1>
 
-<div align="center">
-  <a href="https://orcdev.com/banner?warrior=869a6c8386505f42723beeb5fdf17fdaa51030b00d86a3e3c9c5a9550cb946a7">
-    <img
-      src="https://orcdev.com/banners/869a6c8386505f42723beeb5fdf17fdaa51030b00d86a3e3c9c5a9550cb946a7.png"
-      width="180"
-      height="180"
-      alt="OrcDev's Dev Card"
-    />
-  </a>
-</div>
+<a href="https://orcdev.com/banner?warrior=869a6c8386505f42723beeb5fdf17fdaa51030b00d86a3e3c9c5a9550cb946a7">
+  <img
+    src="https://orcdev.com/banners/869a6c8386505f42723beeb5fdf17fdaa51030b00d86a3e3c9c5a9550cb946a7.png"
+    width="180"
+    height="180"
+    alt="OrcDev's Dev Card"
+  />
+</a>
 
 <h3>Join the Mighty Horde! ⚔️</h3>
 <ul>
