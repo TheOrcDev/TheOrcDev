@@ -8,7 +8,7 @@
   <li>X: <a href="https://x.com/theorcdev">TheOrcDev</a></li>
 </ul>
 
-<h3 align="left">Weapons and Tools:</h3>
+<h3 align="left">Weapons:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,nodejs,tailwind&theme=light)](https://skillicons.dev#gh-dark-mode-only)
 
