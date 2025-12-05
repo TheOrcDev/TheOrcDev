@@ -5,7 +5,7 @@
   <li>YouTube: <a href="https://www.youtube.com/@orcdev">@OrcDev</a></li>
   <li>Discord: <a href="https://discord.com/invite/uFB5YzH9YG">Invitation to the Horde</a></li>
   <li>Website: <a href="https://orcdev.com">OrcDev.com</a></li>
-  <li>X: <a href="https://x.com/theorcdev">TheOrcDev</a></li>
+  <li>X: <a href="https://x.com/orcdev">TheOrcDev</a></li>
 </ul>
 
 <h3 align="left">Weapons:</h3>
