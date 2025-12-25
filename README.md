@@ -18,5 +18,30 @@
 
 <!-- YOUTUBE:START -->
 
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=5zpxvFZlo1M">
+        <img src="https://img.youtube.com/vi/5zpxvFZlo1M/mqdefault.jpg" width="220" alt="3 Things You Must Do to Stand Out as a Developer in…" />
+      </a>
+      <br />
+      <sub><b>3 Things You Must Do to Stand Out as a Developer in…</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=bJ9wuU0Jj6g">
+        <img src="https://img.youtube.com/vi/bJ9wuU0Jj6g/mqdefault.jpg" width="220" alt="Reviewing YOUR Open Source Projects LIVE with David…" />
+      </a>
+      <br />
+      <sub><b>Reviewing YOUR Open Source Projects LIVE with David…</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=N1G6O_c3avQ">
+        <img src="https://img.youtube.com/vi/N1G6O_c3avQ/mqdefault.jpg" width="220" alt="Working on 8bitcn &amp; Testing My New Camera" />
+      </a>
+      <br />
+      <sub><b>Working on 8bitcn &amp; Testing My New Camera</b></sub>
+    </td>
+  </tr>
+</table>
 
 <!-- YOUTUBE:END -->
