@@ -2,7 +2,7 @@
 import fs from "node:fs/promises";
 
 const FEED_URL =
-  "https://www.youtube.com/feeds/videos.xml?channel_id=@orcdev";
+  "https://www.youtube.com/feeds/videos.xml?channel_id=UCClMPKqtJ1LbRBCDP948g5Q";
 
 const README_PATH = "README.md";
 const START = "<!-- YOUTUBE:START -->";
