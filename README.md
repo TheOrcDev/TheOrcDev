@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m **OrcDev**
+# ⚔️ Hey there, I’m **OrcDev**
 
 **15+ years in the code mines. I build, I break, I conquer - all in orcish style.** 🛠️  
 I make dev content, open-source tools, and lead a thriving community of developers called **The Horde**.
