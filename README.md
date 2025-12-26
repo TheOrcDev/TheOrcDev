@@ -1,18 +1,37 @@
-<h1 align="center">Greetings! I'm OrcDev</h1>
+# 👋 Hey there, I’m **OrcDev**
 
-<h3>Join the Mighty Horde! ⚔️</h3>
-<ul>
-  <li>YouTube: <a href="https://www.youtube.com/@orcdev">@OrcDev</a></li>
-  <li>Discord: <a href="https://discord.com/invite/uFB5YzH9YG">Invitation to the Horde</a></li>
-  <li>Website: <a href="https://orcdev.com">OrcDev.com</a></li>
-  <li>X: <a href="https://x.com/orcdev">OrcDev</a></li>
-</ul>
+**15+ years in the code mines. I build, I break, I conquer - all in orcish style.** 🛠️  
+I make dev content, open-source tools, and lead a thriving community of developers called **The Horde**.
 
-<h3 align="left">Weapons:</h3>
+🎥 **YouTube:** https://www.youtube.com/@OrcDev
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,nodejs,tailwind&theme=light)](https://skillicons.dev#gh-dark-mode-only)
+---
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,nodejs,tailwind&theme=dark)](https://skillicons.dev#gh-light-mode-only)
+## 🛡️ Leader of **The Horde**
+
+**The Horde** is a growing community of developers, creators, and open-source builders where we:
+
+- share projects & feedback
+- level up coding skills
+- collaborate on tools & tutorials
+- hype each other up to ship more
+
+Be part of the movement 💪
+
+https://join.thehorde.dev
+
+---
+
+## 📱 Find Me Online
+
+| Platform | Link |
+| -------- | ---- |
+| **Website** | https://orcdev.com
+| **YouTube** | https://www.youtube.com/@OrcDev
+| **X (Twitter)** | https://x.com/orcdev
+| **Discord** | https://join.thehorde.dev
+
+---
 
 ## Latest YouTube videos
 
