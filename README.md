@@ -40,18 +40,18 @@ https://join.thehorde.dev
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=1Yd0xYtWHCE">
+        <img src="https://img.youtube.com/vi/1Yd0xYtWHCE/mqdefault.jpg" width="220" alt="Reviewing YOUR Open Source Projects LIVE" />
+      </a>
+      <br />
+      <sub><b>Reviewing YOUR Open Source Projects LIVE</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=YrLewcJp0pc">
         <img src="https://img.youtube.com/vi/YrLewcJp0pc/mqdefault.jpg" width="220" alt="The Avengers of Open Source ⚔️ 8 Devs Talk 2025 Win…" />
       </a>
       <br />
       <sub><b>The Avengers of Open Source ⚔️ 8 Devs Talk 2025 Win…</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=m7OgBhY36tU">
-        <img src="https://img.youtube.com/vi/m7OgBhY36tU/mqdefault.jpg" width="220" alt="Reviewing YOUR Open Source Projects LIVE - Holiday…" />
-      </a>
-      <br />
-      <sub><b>Reviewing YOUR Open Source Projects LIVE - Holiday…</b></sub>
     </td>
     <td></td>
   </tr>
