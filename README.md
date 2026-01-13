@@ -40,25 +40,25 @@ https://join.thehorde.dev
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=1Yd0xYtWHCE">
-        <img src="https://img.youtube.com/vi/1Yd0xYtWHCE/mqdefault.jpg" width="220" alt="Reviewing YOUR Open Source Projects LIVE" />
+      <a href="https://www.youtube.com/watch?v=qcEPCamwg6I">
+        <img src="https://img.youtube.com/vi/qcEPCamwg6I/mqdefault.jpg" width="220" alt="Reviewing YOUR Open Source Projects LIVE" />
       </a>
       <br />
       <sub><b>Reviewing YOUR Open Source Projects LIVE</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=vy_3VXm8yIE">
-        <img src="https://img.youtube.com/vi/vy_3VXm8yIE/mqdefault.jpg" width="220" alt="Building a GitHub Creature App From Scratch (Full T…" />
+      <a href="https://www.youtube.com/watch?v=YrLewcJp0pc">
+        <img src="https://img.youtube.com/vi/YrLewcJp0pc/mqdefault.jpg" width="220" alt="The Avengers of Open Source ⚔️ 8 Devs Talk 2025 Win…" />
       </a>
       <br />
-      <sub><b>Building a GitHub Creature App From Scratch (Full T…</b></sub>
+      <sub><b>The Avengers of Open Source ⚔️ 8 Devs Talk 2025 Win…</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=LeluaE_lwwo">
-        <img src="https://img.youtube.com/vi/LeluaE_lwwo/mqdefault.jpg" width="220" alt="Open Source Cursor?" />
+      <a href="https://www.youtube.com/watch?v=1Yd0xYtWHCE">
+        <img src="https://img.youtube.com/vi/1Yd0xYtWHCE/mqdefault.jpg" width="220" alt="Reviewing YOUR Open Source Projects LIVE" />
       </a>
       <br />
-      <sub><b>Open Source Cursor?</b></sub>
+      <sub><b>Reviewing YOUR Open Source Projects LIVE</b></sub>
     </td>
   </tr>
 </table>
