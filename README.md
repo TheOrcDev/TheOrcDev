@@ -40,6 +40,13 @@ https://join.thehorde.dev
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=f_0aXeMvhTM">
+        <img src="https://img.youtube.com/vi/f_0aXeMvhTM/mqdefault.jpg" width="220" alt="How Senior Developers Review Pull Requests in 2026" />
+      </a>
+      <br />
+      <sub><b>How Senior Developers Review Pull Requests in 2026</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=vXS6t78uuzw">
         <img src="https://img.youtube.com/vi/vXS6t78uuzw/mqdefault.jpg" width="220" alt="Reviewing YOUR Open Source Projects LIVE" />
       </a>
@@ -52,13 +59,6 @@ https://join.thehorde.dev
       </a>
       <br />
       <sub><b>The Best AI for Building Frontends in Claude Code (…</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=DTnn9b8tbqc">
-        <img src="https://img.youtube.com/vi/DTnn9b8tbqc/mqdefault.jpg" width="220" alt="Reviewing YOUR Open Source Projects LIVE" />
-      </a>
-      <br />
-      <sub><b>Reviewing YOUR Open Source Projects LIVE</b></sub>
     </td>
   </tr>
 </table>
