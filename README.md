@@ -53,13 +53,7 @@ https://join.thehorde.dev
       <br />
       <sub><b>Reviewing YOUR Open Source Projects LIVE</b></sub>
     </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=JF5YdvHWglc">
-        <img src="https://img.youtube.com/vi/JF5YdvHWglc/mqdefault.jpg" width="220" alt="The Best AI for Building Frontends in Claude Code (…" />
-      </a>
-      <br />
-      <sub><b>The Best AI for Building Frontends in Claude Code (…</b></sub>
-    </td>
+    <td></td>
   </tr>
 </table>
 
