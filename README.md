@@ -46,13 +46,7 @@ https://join.thehorde.dev
       <br />
       <sub><b>How Senior Developers Review Pull Requests in 2026</b></sub>
     </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=vXS6t78uuzw">
-        <img src="https://img.youtube.com/vi/vXS6t78uuzw/mqdefault.jpg" width="220" alt="Reviewing YOUR Open Source Projects LIVE" />
-      </a>
-      <br />
-      <sub><b>Reviewing YOUR Open Source Projects LIVE</b></sub>
-    </td>
+    <td></td>
     <td></td>
   </tr>
 </table>
