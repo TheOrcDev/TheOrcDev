@@ -37,18 +37,6 @@ https://join.thehorde.dev
 
 <!-- YOUTUBE:START -->
 
-<table>
-  <tr>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=f_0aXeMvhTM">
-        <img src="https://img.youtube.com/vi/f_0aXeMvhTM/mqdefault.jpg" width="220" alt="How Senior Developers Review Pull Requests in 2026" />
-      </a>
-      <br />
-      <sub><b>How Senior Developers Review Pull Requests in 2026</b></sub>
-    </td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+<!-- No videos found -->
 
 <!-- YOUTUBE:END -->
