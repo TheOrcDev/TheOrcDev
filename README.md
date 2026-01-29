@@ -1,9 +1,17 @@
-# ⚔️ Hey there, I’m **OrcDev**
+<div align="center">
 
-**15+ years in the code mines. I build, I break, I conquer - all in orcish style.** 🛠️  
-I make dev content, open-source tools, and lead a thriving community of developers called **The Horde**.
+# ⚔️ OrcDev
 
-🎥 **YouTube:** https://www.youtube.com/@OrcDev
+**15+ years in the code mines.** I build, I break, I conquer — *in orcish style.* 🛠️
+
+I make dev content, open-source tools, and lead a thriving community of builders: **The Horde**.
+
+<a href="https://www.youtube.com/@OrcDev"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-OrcDev-red?logo=youtube&logoColor=white"></a>
+<a href="https://orcdev.com"><img alt="Website" src="https://img.shields.io/badge/Website-orcdev.com-0ea5e9?logo=google-chrome&logoColor=white"></a>
+<a href="https://x.com/orcdev"><img alt="X" src="https://img.shields.io/badge/X-@orcdev-111111?logo=x&logoColor=white"></a>
+<a href="https://join.thehorde.dev"><img alt="Discord" src="https://img.shields.io/badge/Discord-Join%20The%20Horde-5865F2?logo=discord&logoColor=white"></a>
+
+</div>
 
 ---
 
@@ -11,29 +19,16 @@ I make dev content, open-source tools, and lead a thriving community of develope
 
 **The Horde** is a growing community of developers, creators, and open-source builders where we:
 
-- share projects & feedback
-- level up coding skills
-- collaborate on tools & tutorials
-- hype each other up to ship more
+- Share projects & feedback
+- Level up coding skills
+- Collaborate on tools & tutorials
+- Hype each other up to ship more
 
-Be part of the movement 💪
-
-https://join.thehorde.dev
+**Join:** https://join.thehorde.dev
 
 ---
 
-## 📱 Find Me Online
-
-| Platform | Link |
-| -------- | ---- |
-| **Website** | https://orcdev.com
-| **YouTube** | https://www.youtube.com/@OrcDev
-| **X (Twitter)** | https://x.com/orcdev
-| **Discord** | https://join.thehorde.dev
-
----
-
-## Latest YouTube videos
+## 🎥 Latest YouTube videos
 
 <!-- YOUTUBE:START -->
 
