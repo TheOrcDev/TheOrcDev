@@ -17,7 +17,20 @@ const TITLE_MAX = Number(process.env.TITLE_MAX ?? 52); // chars
 
 function extractVideoIdFromLink(link) {
   const url = new URL(link);
-  return url.searchParams.get("v");
+
+  // Common case: https://www.youtube.com/watch?v=VIDEO_ID
+  const v = url.searchParams.get("v");
+  if (v) return v;
+
+  // Shorts: https://www.youtube.com/shorts/VIDEO_ID
+  const parts = url.pathname.split("/").filter(Boolean);
+  const shortsIdx = parts.indexOf("shorts");
+  if (shortsIdx !== -1 && parts[shortsIdx + 1]) return parts[shortsIdx + 1];
+
+  // youtu.be: https://youtu.be/VIDEO_ID
+  if (url.hostname === "youtu.be" && parts[0]) return parts[0];
+
+  return null;
 }
 
 function decodeXmlEntities(str) {
