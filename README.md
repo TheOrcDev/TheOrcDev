@@ -10,6 +10,7 @@ I make dev content, open-source tools, and lead a thriving community of builders
 <a href="https://orcdev.com"><img alt="Website" src="https://img.shields.io/badge/Website-orcdev.com-0ea5e9?logo=google-chrome&logoColor=white"></a>
 <a href="https://x.com/orcdev"><img alt="X" src="https://img.shields.io/badge/X-@orcdev-111111?logo=x&logoColor=white"></a>
 <a href="https://join.thehorde.dev"><img alt="Discord" src="https://img.shields.io/badge/Discord-Join%20The%20Horde-5865F2?logo=discord&logoColor=white"></a>
+<a href="https://github.com/sponsors/TheOrcDev"><img alt="Sponsor" src="https://img.shields.io/badge/Sponsor-❤-db2777?logo=githubsponsors&logoColor=white"></a>
 
 </div>
 
