@@ -36,25 +36,25 @@ I make dev content, open-source tools, and lead a thriving community of builders
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=IH2_CzDDh6c">
-        <img src="https://img.youtube.com/vi/IH2_CzDDh6c/mqdefault.jpg" width="220" alt="I Built an AI Team with Clawdbot and It&#39;s Insane" />
+      <a href="https://www.youtube.com/shorts/emrwcVudzek">
+        <img src="https://img.youtube.com/vi/emrwcVudzek/mqdefault.jpg" width="220" alt="I found the ultimate file conversion API" />
       </a>
       <br />
-      <sub><b>I Built an AI Team with Clawdbot and It&#39;s Insane</b></sub>
+      <sub><b>I found the ultimate file conversion API</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=vXS6t78uuzw">
-        <img src="https://img.youtube.com/vi/vXS6t78uuzw/mqdefault.jpg" width="220" alt="Reviewing YOUR Open Source Projects LIVE" />
+      <a href="https://www.youtube.com/watch?v=A6YRLMXvZAQ">
+        <img src="https://img.youtube.com/vi/A6YRLMXvZAQ/mqdefault.jpg" width="220" alt="Reviewing YOUR Open Source Projects LIVE" />
       </a>
       <br />
       <sub><b>Reviewing YOUR Open Source Projects LIVE</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/a6gDSaZYLYo">
-        <img src="https://img.youtube.com/vi/a6gDSaZYLYo/mqdefault.jpg" width="220" alt="Top 10 Block UI Libraries for Developers 2026" />
+      <a href="https://www.youtube.com/watch?v=IH2_CzDDh6c">
+        <img src="https://img.youtube.com/vi/IH2_CzDDh6c/mqdefault.jpg" width="220" alt="I Built an AI Team with Clawdbot and It&#39;s Insane" />
       </a>
       <br />
-      <sub><b>Top 10 Block UI Libraries for Developers 2026</b></sub>
+      <sub><b>I Built an AI Team with Clawdbot and It&#39;s Insane</b></sub>
     </td>
   </tr>
 </table>
