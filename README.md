@@ -36,6 +36,13 @@ I make dev content, open-source tools, and lead a thriving community of builders
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=15ZVQVlNR-o">
+        <img src="https://img.youtube.com/vi/15ZVQVlNR-o/mqdefault.jpg" width="220" alt="I found the CRAZIEST React Component Libraries Buil…" />
+      </a>
+      <br />
+      <sub><b>I found the CRAZIEST React Component Libraries Buil…</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/shorts/emrwcVudzek">
         <img src="https://img.youtube.com/vi/emrwcVudzek/mqdefault.jpg" width="220" alt="I found the ultimate file conversion API" />
       </a>
@@ -48,13 +55,6 @@ I make dev content, open-source tools, and lead a thriving community of builders
       </a>
       <br />
       <sub><b>Reviewing YOUR Open Source Projects LIVE</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=IH2_CzDDh6c">
-        <img src="https://img.youtube.com/vi/IH2_CzDDh6c/mqdefault.jpg" width="220" alt="I Built an AI Team with Clawdbot and It&#39;s Insane" />
-      </a>
-      <br />
-      <sub><b>I Built an AI Team with Clawdbot and It&#39;s Insane</b></sub>
     </td>
   </tr>
 </table>
