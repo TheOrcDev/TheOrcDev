@@ -36,6 +36,13 @@ I make dev content, open-source tools, and lead a thriving community of builders
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=A6YRLMXvZAQ">
+        <img src="https://img.youtube.com/vi/A6YRLMXvZAQ/mqdefault.jpg" width="220" alt="Reviewing YOUR Open Source Projects LIVE" />
+      </a>
+      <br />
+      <sub><b>Reviewing YOUR Open Source Projects LIVE</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=15ZVQVlNR-o">
         <img src="https://img.youtube.com/vi/15ZVQVlNR-o/mqdefault.jpg" width="220" alt="I found the CRAZIEST React Component Libraries Buil…" />
       </a>
@@ -48,13 +55,6 @@ I make dev content, open-source tools, and lead a thriving community of builders
       </a>
       <br />
       <sub><b>I found the ultimate file conversion API</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=A6YRLMXvZAQ">
-        <img src="https://img.youtube.com/vi/A6YRLMXvZAQ/mqdefault.jpg" width="220" alt="Reviewing YOUR Open Source Projects LIVE" />
-      </a>
-      <br />
-      <sub><b>Reviewing YOUR Open Source Projects LIVE</b></sub>
     </td>
   </tr>
 </table>
