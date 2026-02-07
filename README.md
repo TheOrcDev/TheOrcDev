@@ -36,6 +36,13 @@ I make dev content, open-source tools, and lead a thriving community of builders
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=GESM0ENn5pc">
+        <img src="https://img.youtube.com/vi/GESM0ENn5pc/mqdefault.jpg" width="220" alt="Reviewing YOUR Open Source Projects LIVE" />
+      </a>
+      <br />
+      <sub><b>Reviewing YOUR Open Source Projects LIVE</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=238cuv7KW04">
         <img src="https://img.youtube.com/vi/238cuv7KW04/mqdefault.jpg" width="220" alt="How I Made $816 MRR in 2 Days With a Simple App" />
       </a>
@@ -48,13 +55,6 @@ I make dev content, open-source tools, and lead a thriving community of builders
       </a>
       <br />
       <sub><b>Your Own Team of AI Agents (In Minutes)</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=A6YRLMXvZAQ">
-        <img src="https://img.youtube.com/vi/A6YRLMXvZAQ/mqdefault.jpg" width="220" alt="Reviewing YOUR Open Source Projects LIVE" />
-      </a>
-      <br />
-      <sub><b>Reviewing YOUR Open Source Projects LIVE</b></sub>
     </td>
   </tr>
 </table>
