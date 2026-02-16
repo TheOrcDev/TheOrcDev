@@ -36,25 +36,25 @@ I make dev content, open-source tools, and lead a thriving community of builders
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=GESM0ENn5pc">
-        <img src="https://img.youtube.com/vi/GESM0ENn5pc/mqdefault.jpg" width="220" alt="Reviewing YOUR Open Source Projects LIVE" />
+      <a href="https://www.youtube.com/watch?v=V5YwnB_IhEo">
+        <img src="https://img.youtube.com/vi/V5YwnB_IhEo/mqdefault.jpg" width="220" alt="Why is OpenClaw Becoming So Popular Right Now?" />
+      </a>
+      <br />
+      <sub><b>Why is OpenClaw Becoming So Popular Right Now?</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=6IuvVb45tgw">
+        <img src="https://img.youtube.com/vi/6IuvVb45tgw/mqdefault.jpg" width="220" alt="Reviewing YOUR Open Source Projects LIVE" />
       </a>
       <br />
       <sub><b>Reviewing YOUR Open Source Projects LIVE</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=238cuv7KW04">
-        <img src="https://img.youtube.com/vi/238cuv7KW04/mqdefault.jpg" width="220" alt="How I Made $816 MRR in 2 Days With a Simple App" />
+      <a href="https://www.youtube.com/watch?v=DbWKkkrfQ9s">
+        <img src="https://img.youtube.com/vi/DbWKkkrfQ9s/mqdefault.jpg" width="220" alt="Building Warcraft Components Live ⚔️" />
       </a>
       <br />
-      <sub><b>How I Made $816 MRR in 2 Days With a Simple App</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/bzH5Kc8p9bo">
-        <img src="https://img.youtube.com/vi/bzH5Kc8p9bo/mqdefault.jpg" width="220" alt="Your Own Team of AI Agents (In Minutes)" />
-      </a>
-      <br />
-      <sub><b>Your Own Team of AI Agents (In Minutes)</b></sub>
+      <sub><b>Building Warcraft Components Live ⚔️</b></sub>
     </td>
   </tr>
 </table>
