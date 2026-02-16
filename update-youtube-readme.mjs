@@ -15,6 +15,10 @@ const COLUMNS = Number(process.env.COLUMNS ?? 3); // videos per row
 const THUMB_WIDTH = Number(process.env.THUMB_WIDTH ?? 220); // px
 const TITLE_MAX = Number(process.env.TITLE_MAX ?? 52); // chars
 
+// Retry settings
+const MAX_RETRIES = 3;
+const RETRY_DELAY_MS = 2000;
+
 function extractVideoIdFromLink(link) {
   const url = new URL(link);
 
@@ -58,10 +62,42 @@ function truncate(str, max) {
   return s.slice(0, Math.max(0, max - 1)).trimEnd() + "…";
 }
 
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
 async function fetchFeedXml() {
-  const res = await fetch(FEED_URL, { headers: { "user-agent": "github-action" } });
-  if (!res.ok) throw new Error(`Failed to fetch RSS feed: ${res.status} ${res.statusText}`);
-  return await res.text();
+  let lastError;
+  
+  for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
+    try {
+      const res = await fetch(FEED_URL, {
+        headers: {
+          "User-Agent": "Mozilla/5.0 (compatible; GitHubActions/1.0; +https://github.com)",
+          "Accept": "application/atom+xml, application/xml, text/xml, */*",
+          "Accept-Language": "en-US,en;q=0.9",
+        },
+      });
+      
+      if (res.ok) {
+        return await res.text();
+      }
+      
+      lastError = new Error(`HTTP ${res.status} ${res.statusText}`);
+      console.warn(`Attempt ${attempt}/${MAX_RETRIES} failed: ${lastError.message}`);
+      
+    } catch (err) {
+      lastError = err;
+      console.warn(`Attempt ${attempt}/${MAX_RETRIES} failed: ${err.message}`);
+    }
+    
+    if (attempt < MAX_RETRIES) {
+      console.log(`Retrying in ${RETRY_DELAY_MS}ms...`);
+      await sleep(RETRY_DELAY_MS * attempt); // Exponential backoff
+    }
+  }
+  
+  throw new Error(`Failed to fetch RSS feed after ${MAX_RETRIES} attempts: ${lastError.message}`);
 }
 
 function parseEntries(xml) {
@@ -153,8 +189,11 @@ function replaceSection(readme, replacement) {
 }
 
 async function main() {
+  console.log("Fetching YouTube RSS feed...");
   const xml = await fetchFeedXml();
   const entries = parseEntries(xml);
+
+  console.log(`Parsed ${entries.length} entries from feed.`);
 
   if (entries.length === 0) {
     throw new Error("No entries parsed from the feed. The feed format may have changed.");
