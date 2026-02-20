@@ -36,11 +36,11 @@ I make dev content, open-source tools, and lead a thriving community of builders
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=V5YwnB_IhEo">
-        <img src="https://img.youtube.com/vi/V5YwnB_IhEo/mqdefault.jpg" width="220" alt="Why is OpenClaw Becoming So Popular Right Now?" />
+      <a href="https://www.youtube.com/shorts/TFB-PhDjhAs">
+        <img src="https://img.youtube.com/vi/TFB-PhDjhAs/mqdefault.jpg" width="220" alt="This Is One of the BEST Shadcn Libraries Right Now" />
       </a>
       <br />
-      <sub><b>Why is OpenClaw Becoming So Popular Right Now?</b></sub>
+      <sub><b>This Is One of the BEST Shadcn Libraries Right Now</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=6IuvVb45tgw">
@@ -50,11 +50,11 @@ I make dev content, open-source tools, and lead a thriving community of builders
       <sub><b>Reviewing YOUR Open Source Projects LIVE</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=DbWKkkrfQ9s">
-        <img src="https://img.youtube.com/vi/DbWKkkrfQ9s/mqdefault.jpg" width="220" alt="Building Warcraft Components Live ⚔️" />
+      <a href="https://www.youtube.com/watch?v=V5YwnB_IhEo">
+        <img src="https://img.youtube.com/vi/V5YwnB_IhEo/mqdefault.jpg" width="220" alt="Why is OpenClaw Becoming So Popular Right Now?" />
       </a>
       <br />
-      <sub><b>Building Warcraft Components Live ⚔️</b></sub>
+      <sub><b>Why is OpenClaw Becoming So Popular Right Now?</b></sub>
     </td>
   </tr>
 </table>
