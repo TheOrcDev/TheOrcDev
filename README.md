@@ -36,25 +36,25 @@ I make dev content, open-source tools, and lead a thriving community of builders
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/TFB-PhDjhAs">
-        <img src="https://img.youtube.com/vi/TFB-PhDjhAs/mqdefault.jpg" width="220" alt="This Is One of the BEST Shadcn Libraries Right Now" />
-      </a>
-      <br />
-      <sub><b>This Is One of the BEST Shadcn Libraries Right Now</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=6IuvVb45tgw">
-        <img src="https://img.youtube.com/vi/6IuvVb45tgw/mqdefault.jpg" width="220" alt="Reviewing YOUR Open Source Projects LIVE" />
+      <a href="https://www.youtube.com/watch?v=QYgEBArLndg">
+        <img src="https://img.youtube.com/vi/QYgEBArLndg/mqdefault.jpg" width="220" alt="Reviewing YOUR Open Source Projects LIVE" />
       </a>
       <br />
       <sub><b>Reviewing YOUR Open Source Projects LIVE</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=V5YwnB_IhEo">
-        <img src="https://img.youtube.com/vi/V5YwnB_IhEo/mqdefault.jpg" width="220" alt="Why is OpenClaw Becoming So Popular Right Now?" />
+      <a href="https://www.youtube.com/shorts/uJ6aa-tovvY">
+        <img src="https://img.youtube.com/vi/uJ6aa-tovvY/mqdefault.jpg" width="220" alt="The Coolest Payment Platform I’ve Ever Seen" />
       </a>
       <br />
-      <sub><b>Why is OpenClaw Becoming So Popular Right Now?</b></sub>
+      <sub><b>The Coolest Payment Platform I’ve Ever Seen</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=B1gy0el-Ri0">
+        <img src="https://img.youtube.com/vi/B1gy0el-Ri0/mqdefault.jpg" width="220" alt="The Simplest Online Checkout in Next.js (With Webho…" />
+      </a>
+      <br />
+      <sub><b>The Simplest Online Checkout in Next.js (With Webho…</b></sub>
     </td>
   </tr>
 </table>
