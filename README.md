@@ -36,6 +36,13 @@ I make dev content, open-source tools, and lead a thriving community of builders
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/shorts/lBYvpq5qtIU">
+        <img src="https://img.youtube.com/vi/lBYvpq5qtIU/mqdefault.jpg" width="220" alt="Need Real Tech Advice? Talk to Me 1-on-1" />
+      </a>
+      <br />
+      <sub><b>Need Real Tech Advice? Talk to Me 1-on-1</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=QYgEBArLndg">
         <img src="https://img.youtube.com/vi/QYgEBArLndg/mqdefault.jpg" width="220" alt="Reviewing YOUR Open Source Projects LIVE" />
       </a>
@@ -48,13 +55,6 @@ I make dev content, open-source tools, and lead a thriving community of builders
       </a>
       <br />
       <sub><b>The Coolest Payment Platform I’ve Ever Seen</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=B1gy0el-Ri0">
-        <img src="https://img.youtube.com/vi/B1gy0el-Ri0/mqdefault.jpg" width="220" alt="The Simplest Online Checkout in Next.js (With Webho…" />
-      </a>
-      <br />
-      <sub><b>The Simplest Online Checkout in Next.js (With Webho…</b></sub>
     </td>
   </tr>
 </table>
