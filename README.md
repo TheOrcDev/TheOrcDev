@@ -36,13 +36,6 @@ I make dev content, open-source tools, and lead a thriving community of builders
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/lBYvpq5qtIU">
-        <img src="https://img.youtube.com/vi/lBYvpq5qtIU/mqdefault.jpg" width="220" alt="Need Real Tech Advice? Talk to Me 1-on-1" />
-      </a>
-      <br />
-      <sub><b>Need Real Tech Advice? Talk to Me 1-on-1</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=QYgEBArLndg">
         <img src="https://img.youtube.com/vi/QYgEBArLndg/mqdefault.jpg" width="220" alt="Reviewing YOUR Open Source Projects LIVE" />
       </a>
@@ -50,11 +43,18 @@ I make dev content, open-source tools, and lead a thriving community of builders
       <sub><b>Reviewing YOUR Open Source Projects LIVE</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/uJ6aa-tovvY">
-        <img src="https://img.youtube.com/vi/uJ6aa-tovvY/mqdefault.jpg" width="220" alt="The Coolest Payment Platform I’ve Ever Seen" />
+      <a href="https://www.youtube.com/watch?v=pEgbpsxSrmU">
+        <img src="https://img.youtube.com/vi/pEgbpsxSrmU/mqdefault.jpg" width="220" alt="Playing MRR City" />
       </a>
       <br />
-      <sub><b>The Coolest Payment Platform I’ve Ever Seen</b></sub>
+      <sub><b>Playing MRR City</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/shorts/lBYvpq5qtIU">
+        <img src="https://img.youtube.com/vi/lBYvpq5qtIU/mqdefault.jpg" width="220" alt="Need Real Tech Advice? Talk to Me 1-on-1" />
+      </a>
+      <br />
+      <sub><b>Need Real Tech Advice? Talk to Me 1-on-1</b></sub>
     </td>
   </tr>
 </table>
