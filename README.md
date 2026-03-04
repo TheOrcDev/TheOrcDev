@@ -36,25 +36,25 @@ I make dev content, open-source tools, and lead a thriving community of builders
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/JlaiIay6jSc">
-        <img src="https://img.youtube.com/vi/JlaiIay6jSc/mqdefault.jpg" width="220" alt="This New Shadcn Library Is Taking Over…" />
-      </a>
-      <br />
-      <sub><b>This New Shadcn Library Is Taking Over…</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=QYgEBArLndg">
-        <img src="https://img.youtube.com/vi/QYgEBArLndg/mqdefault.jpg" width="220" alt="Reviewing YOUR Open Source Projects LIVE" />
+      <a href="https://www.youtube.com/watch?v=jsYwHyN4NYc">
+        <img src="https://img.youtube.com/vi/jsYwHyN4NYc/mqdefault.jpg" width="220" alt="Reviewing YOUR Open Source Projects LIVE" />
       </a>
       <br />
       <sub><b>Reviewing YOUR Open Source Projects LIVE</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=pEgbpsxSrmU">
-        <img src="https://img.youtube.com/vi/pEgbpsxSrmU/mqdefault.jpg" width="220" alt="Playing MRR City" />
+      <a href="https://www.youtube.com/watch?v=xoJIHFWlf0M">
+        <img src="https://img.youtube.com/vi/xoJIHFWlf0M/mqdefault.jpg" width="220" alt="The Craziest Open Source AI UI Project I&#39;ve Seen" />
       </a>
       <br />
-      <sub><b>Playing MRR City</b></sub>
+      <sub><b>The Craziest Open Source AI UI Project I&#39;ve Seen</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=29S4pv64Tbg">
+        <img src="https://img.youtube.com/vi/29S4pv64Tbg/mqdefault.jpg" width="220" alt="5 Open Source Tools That Feel Illegal to Be Free" />
+      </a>
+      <br />
+      <sub><b>5 Open Source Tools That Feel Illegal to Be Free</b></sub>
     </td>
   </tr>
 </table>
