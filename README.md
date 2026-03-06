@@ -36,25 +36,25 @@ I make dev content, open-source tools, and lead a thriving community of builders
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=jsYwHyN4NYc">
-        <img src="https://img.youtube.com/vi/jsYwHyN4NYc/mqdefault.jpg" width="220" alt="Reviewing YOUR Open Source Projects LIVE" />
+      <a href="https://www.youtube.com/shorts/E7guuTUkQgE">
+        <img src="https://img.youtube.com/vi/E7guuTUkQgE/mqdefault.jpg" width="220" alt="Claude Code is storing your API keys" />
+      </a>
+      <br />
+      <sub><b>Claude Code is storing your API keys</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=8yHA95yEwXA">
+        <img src="https://img.youtube.com/vi/8yHA95yEwXA/mqdefault.jpg" width="220" alt="Reviewing YOUR Open Source Projects LIVE" />
       </a>
       <br />
       <sub><b>Reviewing YOUR Open Source Projects LIVE</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=xoJIHFWlf0M">
-        <img src="https://img.youtube.com/vi/xoJIHFWlf0M/mqdefault.jpg" width="220" alt="The Craziest Open Source AI UI Project I&#39;ve Seen" />
+      <a href="https://www.youtube.com/watch?v=0-cYMu5-YEw">
+        <img src="https://img.youtube.com/vi/0-cYMu5-YEw/mqdefault.jpg" width="220" alt="Your API Keys Aren&#39;t Safe in Claude Code" />
       </a>
       <br />
-      <sub><b>The Craziest Open Source AI UI Project I&#39;ve Seen</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=29S4pv64Tbg">
-        <img src="https://img.youtube.com/vi/29S4pv64Tbg/mqdefault.jpg" width="220" alt="5 Open Source Tools That Feel Illegal to Be Free" />
-      </a>
-      <br />
-      <sub><b>5 Open Source Tools That Feel Illegal to Be Free</b></sub>
+      <sub><b>Your API Keys Aren&#39;t Safe in Claude Code</b></sub>
     </td>
   </tr>
 </table>
