@@ -36,25 +36,25 @@ I make dev content, open-source tools, and lead a thriving community of builders
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/E7guuTUkQgE">
-        <img src="https://img.youtube.com/vi/E7guuTUkQgE/mqdefault.jpg" width="220" alt="Claude Code is storing your API keys" />
+      <a href="https://www.youtube.com/shorts/fTWEbumpHi0">
+        <img src="https://img.youtube.com/vi/fTWEbumpHi0/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to be Free (par…" />
       </a>
       <br />
-      <sub><b>Claude Code is storing your API keys</b></sub>
+      <sub><b>Open Source Tool That Feels Illegal to be Free (par…</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=8yHA95yEwXA">
-        <img src="https://img.youtube.com/vi/8yHA95yEwXA/mqdefault.jpg" width="220" alt="Reviewing YOUR Open Source Projects LIVE" />
+      <a href="https://www.youtube.com/shorts/Ct247wVsHn4">
+        <img src="https://img.youtube.com/vi/Ct247wVsHn4/mqdefault.jpg" width="220" alt="Shadcn CLI v4 - This Changes Everything" />
       </a>
       <br />
-      <sub><b>Reviewing YOUR Open Source Projects LIVE</b></sub>
+      <sub><b>Shadcn CLI v4 - This Changes Everything</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=0-cYMu5-YEw">
-        <img src="https://img.youtube.com/vi/0-cYMu5-YEw/mqdefault.jpg" width="220" alt="Your API Keys Aren&#39;t Safe in Claude Code" />
+      <a href="https://www.youtube.com/watch?v=m-gIqQTHcAY">
+        <img src="https://img.youtube.com/vi/m-gIqQTHcAY/mqdefault.jpg" width="220" alt="Shadcn CLI v4 - This Changes Everything (Exclusive…" />
       </a>
       <br />
-      <sub><b>Your API Keys Aren&#39;t Safe in Claude Code</b></sub>
+      <sub><b>Shadcn CLI v4 - This Changes Everything (Exclusive…</b></sub>
     </td>
   </tr>
 </table>
