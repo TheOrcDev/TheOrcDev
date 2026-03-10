@@ -36,6 +36,36 @@ I make dev content, open-source tools, and lead a thriving community of builders
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/shorts/RV1IEFvzsyM">
+        <img src="https://img.youtube.com/vi/RV1IEFvzsyM/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to be Free (par…" />
+      </a>
+      <br />
+      <sub><b>Open Source Tool That Feels Illegal to be Free (par…</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/shorts/yTVTFepgkjo">
+        <img src="https://img.youtube.com/vi/yTVTFepgkjo/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to be Free (par…" />
+      </a>
+      <br />
+      <sub><b>Open Source Tool That Feels Illegal to be Free (par…</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=tVXJMsAE4mE">
+        <img src="https://img.youtube.com/vi/tVXJMsAE4mE/mqdefault.jpg" width="220" alt="I Launched 5 Projects in 2026" />
+      </a>
+      <br />
+      <sub><b>I Launched 5 Projects in 2026</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/shorts/z3WomWFLHSs">
+        <img src="https://img.youtube.com/vi/z3WomWFLHSs/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to be Free (par…" />
+      </a>
+      <br />
+      <sub><b>Open Source Tool That Feels Illegal to be Free (par…</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/shorts/fTWEbumpHi0">
         <img src="https://img.youtube.com/vi/fTWEbumpHi0/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to be Free (par…" />
       </a>
@@ -48,13 +78,6 @@ I make dev content, open-source tools, and lead a thriving community of builders
       </a>
       <br />
       <sub><b>Shadcn CLI v4 - This Changes Everything</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=m-gIqQTHcAY">
-        <img src="https://img.youtube.com/vi/m-gIqQTHcAY/mqdefault.jpg" width="220" alt="Shadcn CLI v4 - This Changes Everything (Exclusive…" />
-      </a>
-      <br />
-      <sub><b>Shadcn CLI v4 - This Changes Everything (Exclusive…</b></sub>
     </td>
   </tr>
 </table>
