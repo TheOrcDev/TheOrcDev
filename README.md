@@ -36,48 +36,25 @@ I make dev content, open-source tools, and lead a thriving community of builders
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/RV1IEFvzsyM">
-        <img src="https://img.youtube.com/vi/RV1IEFvzsyM/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to be Free (par…" />
+      <a href="https://www.youtube.com/shorts/3eoH0-Hc8-k">
+        <img src="https://img.youtube.com/vi/3eoH0-Hc8-k/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
       </a>
       <br />
-      <sub><b>Open Source Tool That Feels Illegal to be Free (par…</b></sub>
+      <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/yTVTFepgkjo">
-        <img src="https://img.youtube.com/vi/yTVTFepgkjo/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to be Free (par…" />
+      <a href="https://www.youtube.com/watch?v=Og83jYPa_24">
+        <img src="https://img.youtube.com/vi/Og83jYPa_24/mqdefault.jpg" width="220" alt="This New CLI Tool Is Crazy Good" />
       </a>
       <br />
-      <sub><b>Open Source Tool That Feels Illegal to be Free (par…</b></sub>
+      <sub><b>This New CLI Tool Is Crazy Good</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=tVXJMsAE4mE">
-        <img src="https://img.youtube.com/vi/tVXJMsAE4mE/mqdefault.jpg" width="220" alt="I Launched 5 Projects in 2026" />
+      <a href="https://www.youtube.com/shorts/K4s58ckY6hA">
+        <img src="https://img.youtube.com/vi/K4s58ckY6hA/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
       </a>
       <br />
-      <sub><b>I Launched 5 Projects in 2026</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/z3WomWFLHSs">
-        <img src="https://img.youtube.com/vi/z3WomWFLHSs/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to be Free (par…" />
-      </a>
-      <br />
-      <sub><b>Open Source Tool That Feels Illegal to be Free (par…</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/fTWEbumpHi0">
-        <img src="https://img.youtube.com/vi/fTWEbumpHi0/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to be Free (par…" />
-      </a>
-      <br />
-      <sub><b>Open Source Tool That Feels Illegal to be Free (par…</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/Ct247wVsHn4">
-        <img src="https://img.youtube.com/vi/Ct247wVsHn4/mqdefault.jpg" width="220" alt="Shadcn CLI v4 - This Changes Everything" />
-      </a>
-      <br />
-      <sub><b>Shadcn CLI v4 - This Changes Everything</b></sub>
+      <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
     </td>
   </tr>
 </table>
