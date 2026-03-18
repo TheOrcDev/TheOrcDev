@@ -71,13 +71,19 @@ async function fetchFeedXml() {
   
   for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
     try {
+      const controller = new AbortController();
+      const timeout = setTimeout(() => controller.abort(), 15000);
+
       const res = await fetch(FEED_URL, {
+        signal: controller.signal,
         headers: {
           "User-Agent": "Mozilla/5.0 (compatible; GitHubActions/1.0; +https://github.com)",
           "Accept": "application/atom+xml, application/xml, text/xml, */*",
           "Accept-Language": "en-US,en;q=0.9",
         },
       });
+
+      clearTimeout(timeout);
       
       if (res.ok) {
         return await res.text();
@@ -100,20 +106,33 @@ async function fetchFeedXml() {
   throw new Error(`Failed to fetch RSS feed after ${MAX_RETRIES} attempts: ${lastError.message}`);
 }
 
+function extractAttr(tag, attrName) {
+  const m = tag.match(new RegExp(`${attrName}="([^"]+)"`));
+  return m?.[1] ?? "";
+}
+
 function parseEntries(xml) {
   const entries = [];
   const entryBlocks = xml.match(/<entry>[\s\S]*?<\/entry>/g) ?? [];
 
   for (const block of entryBlocks) {
     const titleMatch = block.match(/<title>([\s\S]*?)<\/title>/);
-    const linkMatch = block.match(
-      /<link[^>]*rel="alternate"[^>]*href="([^"]+)"[^>]*\/?>/
-    );
+    const linkTags = block.match(/<link[^>]*\/?>/g) ?? [];
     const publishedMatch = block.match(/<published>([\s\S]*?)<\/published>/);
+
+    // YouTube can reorder attributes, so find alternate link by attributes instead of strict order
+    let link = "";
+    for (const tag of linkTags) {
+      const rel = extractAttr(tag, "rel");
+      const href = extractAttr(tag, "href");
+      if (rel === "alternate" && href) {
+        link = href;
+        break;
+      }
+    }
 
     const rawTitle = titleMatch?.[1] ?? "";
     const title = decodeXmlEntities(rawTitle);
-    const link = linkMatch?.[1] ?? "";
     const published = publishedMatch?.[1] ?? "";
 
     if (!title || !link) continue;
@@ -213,6 +232,15 @@ async function main() {
 }
 
 main().catch((err) => {
-  console.error(err);
-  process.exit(1);
+  const strict = String(process.env.STRICT_YT_UPDATE ?? "false") === "true";
+  console.error("YouTube README update error:", err?.message ?? err);
+
+  // By default, do not fail the workflow on temporary upstream/feed issues.
+  // Set STRICT_YT_UPDATE=true to restore hard-fail behavior.
+  if (strict) {
+    process.exit(1);
+  }
+
+  console.warn("Continuing without failing workflow (STRICT_YT_UPDATE=false).");
+  process.exit(0);
 });
