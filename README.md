@@ -36,25 +36,25 @@ I make dev content, open-source tools, and lead a thriving community of builders
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/MfziUqYHyaQ">
-        <img src="https://img.youtube.com/vi/MfziUqYHyaQ/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
+      <a href="https://www.youtube.com/shorts/iBnS1mFiCDI">
+        <img src="https://img.youtube.com/vi/iBnS1mFiCDI/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
       </a>
       <br />
       <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/Yr3VKU1Sf9Y">
-        <img src="https://img.youtube.com/vi/Yr3VKU1Sf9Y/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
+      <a href="https://www.youtube.com/shorts/TcWq5afNP-4">
+        <img src="https://img.youtube.com/vi/TcWq5afNP-4/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
       </a>
       <br />
       <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=GRoYxGgyDwE">
-        <img src="https://img.youtube.com/vi/GRoYxGgyDwE/mqdefault.jpg" width="220" alt="8bitcn v2 is Here (And It&#39;s Incredible)" />
+      <a href="https://www.youtube.com/shorts/vylgMT57vAs">
+        <img src="https://img.youtube.com/vi/vylgMT57vAs/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
       </a>
       <br />
-      <sub><b>8bitcn v2 is Here (And It&#39;s Incredible)</b></sub>
+      <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
     </td>
   </tr>
 </table>
