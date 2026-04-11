@@ -36,22 +36,22 @@ I make dev content, open-source tools, and lead a thriving community of builders
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/iBnS1mFiCDI">
-        <img src="https://img.youtube.com/vi/iBnS1mFiCDI/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
+      <a href="https://www.youtube.com/watch?v=mWzplwXeR_c">
+        <img src="https://img.youtube.com/vi/mWzplwXeR_c/mqdefault.jpg" width="220" alt="Tools You Need for Coding with AI in 2026" />
+      </a>
+      <br />
+      <sub><b>Tools You Need for Coding with AI in 2026</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/shorts/0AMap4PTI6I">
+        <img src="https://img.youtube.com/vi/0AMap4PTI6I/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
       </a>
       <br />
       <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/TcWq5afNP-4">
-        <img src="https://img.youtube.com/vi/TcWq5afNP-4/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
-      </a>
-      <br />
-      <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/vylgMT57vAs">
-        <img src="https://img.youtube.com/vi/vylgMT57vAs/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
+      <a href="https://www.youtube.com/shorts/t4crgWdkIeY">
+        <img src="https://img.youtube.com/vi/t4crgWdkIeY/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
       </a>
       <br />
       <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
