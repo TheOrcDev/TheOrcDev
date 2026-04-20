@@ -36,6 +36,13 @@ I make dev content, open-source tools, and lead a thriving community of builders
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=cNs4sRwN7Mc">
+        <img src="https://img.youtube.com/vi/cNs4sRwN7Mc/mqdefault.jpg" width="220" alt="Claude Design review: hype or actually useful?" />
+      </a>
+      <br />
+      <sub><b>Claude Design review: hype or actually useful?</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/shorts/woxtGWTEYfE">
         <img src="https://img.youtube.com/vi/woxtGWTEYfE/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
       </a>
@@ -48,13 +55,6 @@ I make dev content, open-source tools, and lead a thriving community of builders
       </a>
       <br />
       <sub><b>Tools You Need for Coding with AI in 2026</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/0AMap4PTI6I">
-        <img src="https://img.youtube.com/vi/0AMap4PTI6I/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
-      </a>
-      <br />
-      <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
     </td>
   </tr>
 </table>
