@@ -36,25 +36,25 @@ I make dev content, open-source tools, and lead a thriving community of builders
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=cNs4sRwN7Mc">
-        <img src="https://img.youtube.com/vi/cNs4sRwN7Mc/mqdefault.jpg" width="220" alt="Claude Design review: hype or actually useful?" />
+      <a href="https://www.youtube.com/watch?v=xvOwvZPFJNA">
+        <img src="https://img.youtube.com/vi/xvOwvZPFJNA/mqdefault.jpg" width="220" alt="Reviewing YOUR Open Source Projects LIVE" />
       </a>
       <br />
-      <sub><b>Claude Design review: hype or actually useful?</b></sub>
+      <sub><b>Reviewing YOUR Open Source Projects LIVE</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/woxtGWTEYfE">
-        <img src="https://img.youtube.com/vi/woxtGWTEYfE/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
+      <a href="https://www.youtube.com/shorts/Rc2JKeZh888">
+        <img src="https://img.youtube.com/vi/Rc2JKeZh888/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
       </a>
       <br />
       <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=mWzplwXeR_c">
-        <img src="https://img.youtube.com/vi/mWzplwXeR_c/mqdefault.jpg" width="220" alt="Tools You Need for Coding with AI in 2026" />
+      <a href="https://www.youtube.com/watch?v=49Rem_yhXUA">
+        <img src="https://img.youtube.com/vi/49Rem_yhXUA/mqdefault.jpg" width="220" alt="Shadcn Just Dropped THESE Updates… 🔥" />
       </a>
       <br />
-      <sub><b>Tools You Need for Coding with AI in 2026</b></sub>
+      <sub><b>Shadcn Just Dropped THESE Updates… 🔥</b></sub>
     </td>
   </tr>
 </table>
