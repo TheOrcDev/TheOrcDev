@@ -36,6 +36,13 @@ I make dev content, open-source tools, and lead a thriving community of builders
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=7Nkx_Yh8FEY">
+        <img src="https://img.youtube.com/vi/7Nkx_Yh8FEY/mqdefault.jpg" width="220" alt="You’re Using AI for UI Completely Wrong" />
+      </a>
+      <br />
+      <sub><b>You’re Using AI for UI Completely Wrong</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/shorts/1NnF3d6OSdQ">
         <img src="https://img.youtube.com/vi/1NnF3d6OSdQ/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
       </a>
@@ -48,13 +55,6 @@ I make dev content, open-source tools, and lead a thriving community of builders
       </a>
       <br />
       <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=xvOwvZPFJNA">
-        <img src="https://img.youtube.com/vi/xvOwvZPFJNA/mqdefault.jpg" width="220" alt="Reviewing YOUR Open Source Projects LIVE" />
-      </a>
-      <br />
-      <sub><b>Reviewing YOUR Open Source Projects LIVE</b></sub>
     </td>
   </tr>
 </table>
