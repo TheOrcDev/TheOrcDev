@@ -43,18 +43,18 @@ I make dev content, open-source tools, and lead a thriving community of builders
       <sub><b>Reviewing YOUR Open Source Projects LIVE</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/qin1f4yB37U">
-        <img src="https://img.youtube.com/vi/qin1f4yB37U/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
+      <a href="https://www.youtube.com/shorts/C0pqwt-zqmE">
+        <img src="https://img.youtube.com/vi/C0pqwt-zqmE/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
       </a>
       <br />
       <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=QLG_ZobZBt8">
-        <img src="https://img.youtube.com/vi/QLG_ZobZBt8/mqdefault.jpg" width="220" alt="What the heck is &quot;use workflow&quot;?" />
+      <a href="https://www.youtube.com/shorts/qin1f4yB37U">
+        <img src="https://img.youtube.com/vi/qin1f4yB37U/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
       </a>
       <br />
-      <sub><b>What the heck is &quot;use workflow&quot;?</b></sub>
+      <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
     </td>
   </tr>
 </table>
