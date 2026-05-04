@@ -36,6 +36,13 @@ I make dev content, open-source tools, and lead a thriving community of builders
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/shorts/ftJCrkbdQ7I">
+        <img src="https://img.youtube.com/vi/ftJCrkbdQ7I/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
+      </a>
+      <br />
+      <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/shorts/5KScM4pOj84">
         <img src="https://img.youtube.com/vi/5KScM4pOj84/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
       </a>
@@ -48,13 +55,6 @@ I make dev content, open-source tools, and lead a thriving community of builders
       </a>
       <br />
       <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=az8zNsfkhaQ">
-        <img src="https://img.youtube.com/vi/az8zNsfkhaQ/mqdefault.jpg" width="220" alt="Top 10 Shadcn UI Libraries You NEED in 2026" />
-      </a>
-      <br />
-      <sub><b>Top 10 Shadcn UI Libraries You NEED in 2026</b></sub>
     </td>
   </tr>
 </table>
