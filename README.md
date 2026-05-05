@@ -36,22 +36,22 @@ I make dev content, open-source tools, and lead a thriving community of builders
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/shorts/zKPC3bRqt0Q">
+        <img src="https://img.youtube.com/vi/zKPC3bRqt0Q/mqdefault.jpg" width="220" alt="The Fastest Way to Build UI with Shadcn" />
+      </a>
+      <br />
+      <sub><b>The Fastest Way to Build UI with Shadcn</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/shorts/P0cW9IPhClk">
+        <img src="https://img.youtube.com/vi/P0cW9IPhClk/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
+      </a>
+      <br />
+      <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/shorts/ftJCrkbdQ7I">
         <img src="https://img.youtube.com/vi/ftJCrkbdQ7I/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
-      </a>
-      <br />
-      <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/5KScM4pOj84">
-        <img src="https://img.youtube.com/vi/5KScM4pOj84/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
-      </a>
-      <br />
-      <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/i1N7hTSQies">
-        <img src="https://img.youtube.com/vi/i1N7hTSQies/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
       </a>
       <br />
       <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
