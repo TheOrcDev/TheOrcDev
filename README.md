@@ -36,6 +36,13 @@ I make dev content, open-source tools, and lead a thriving community of builders
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/shorts/uHQRroFvWc4">
+        <img src="https://img.youtube.com/vi/uHQRroFvWc4/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
+      </a>
+      <br />
+      <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/shorts/tJL3RnAJAfg">
         <img src="https://img.youtube.com/vi/tJL3RnAJAfg/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
       </a>
@@ -48,13 +55,6 @@ I make dev content, open-source tools, and lead a thriving community of builders
       </a>
       <br />
       <sub><b>Devs Before vs After AI Agents</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/2nki9oERPyM">
-        <img src="https://img.youtube.com/vi/2nki9oERPyM/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
-      </a>
-      <br />
-      <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
     </td>
   </tr>
 </table>
