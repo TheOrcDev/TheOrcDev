@@ -4,28 +4,28 @@
 
 **15+ years in the code mines.** I build, I break, I conquer — *in orcish style.* 🛠️
 
-I make dev content, open-source tools, and lead a thriving community of builders: **The Horde**.
+I make dev content, open-source tools, and build **Shipper Club**: a private advantage layer for modern builders who want to ship faster and sharper.
 
 <a href="https://www.youtube.com/@OrcDev"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-OrcDev-red?logo=youtube&logoColor=white"></a>
 <a href="https://orcdev.com"><img alt="Website" src="https://img.shields.io/badge/Website-orcdev.com-0ea5e9?logo=google-chrome&logoColor=white"></a>
 <a href="https://x.com/orcdev"><img alt="X" src="https://img.shields.io/badge/X-@orcdev-111111?logo=x&logoColor=white"></a>
-<a href="https://join.thehorde.dev"><img alt="Discord" src="https://img.shields.io/badge/Discord-Join%20The%20Horde-5865F2?logo=discord&logoColor=white"></a>
+<a href="https://shipper.club"><img alt="Shipper Club" src="https://img.shields.io/badge/Shipper%20Club-shipper.club-16a34a?logo=github&logoColor=white"></a>
 <a href="https://github.com/sponsors/TheOrcDev"><img alt="Sponsor" src="https://img.shields.io/badge/Sponsor-❤-db2777?logo=githubsponsors&logoColor=white"></a>
 
 </div>
 
 ---
 
-## 🛡️ Leader of **The Horde**
+## 🚢 Building **Shipper Club**
 
-**The Horde** is a growing community of developers, creators, and open-source builders where we:
+**Shipper Club** is my private builder club for people who care about shipping real things with taste, speed, and momentum.
 
-- Share projects & feedback
-- Level up coding skills
-- Collaborate on tools & tutorials
-- Hype each other up to ship more
+- Curated resources for modern web builders
+- Practical workflows you can use immediately
+- A sharper circle of people building with intention
+- Sponsor perks, member drops, and useful tools
 
-**Join:** https://join.thehorde.dev
+**Join:** https://shipper.club
 
 ---
 
