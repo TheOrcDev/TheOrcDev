@@ -36,25 +36,25 @@ I make dev content, open-source tools, and lead a thriving community of builders
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/F6ridOWAud4">
-        <img src="https://img.youtube.com/vi/F6ridOWAud4/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
+      <a href="https://www.youtube.com/shorts/EstMdRSFeYY">
+        <img src="https://img.youtube.com/vi/EstMdRSFeYY/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
       </a>
       <br />
       <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/tBla0tgfGBc">
-        <img src="https://img.youtube.com/vi/tBla0tgfGBc/mqdefault.jpg" width="220" alt="3 React Libraries You NEVER Knew Existed! 🔥" />
+      <a href="https://www.youtube.com/shorts/Nwqhdqoohyw">
+        <img src="https://img.youtube.com/vi/Nwqhdqoohyw/mqdefault.jpg" width="220" alt="This CSS Library Makes Your Site Look Like Windows…" />
       </a>
       <br />
-      <sub><b>3 React Libraries You NEVER Knew Existed! 🔥</b></sub>
+      <sub><b>This CSS Library Makes Your Site Look Like Windows…</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/YEiL5oVrh2M">
-        <img src="https://img.youtube.com/vi/YEiL5oVrh2M/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
+      <a href="https://www.youtube.com/watch?v=-_oa46147P8">
+        <img src="https://img.youtube.com/vi/-_oa46147P8/mqdefault.jpg" width="220" alt="Everyone Is Starting AI Projects Wrong" />
       </a>
       <br />
-      <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
+      <sub><b>Everyone Is Starting AI Projects Wrong</b></sub>
     </td>
   </tr>
 </table>
