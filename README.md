@@ -36,6 +36,13 @@ I make dev content, open-source tools, and build **Shipper Club**: a private adv
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/shorts/aI9vboClqaA">
+        <img src="https://img.youtube.com/vi/aI9vboClqaA/mqdefault.jpg" width="220" alt="Free AI Design Tool That Feels Illegal!" />
+      </a>
+      <br />
+      <sub><b>Free AI Design Tool That Feels Illegal!</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/shorts/EstMdRSFeYY">
         <img src="https://img.youtube.com/vi/EstMdRSFeYY/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
       </a>
@@ -48,13 +55,6 @@ I make dev content, open-source tools, and build **Shipper Club**: a private adv
       </a>
       <br />
       <sub><b>This CSS Library Makes Your Site Look Like Windows…</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=-_oa46147P8">
-        <img src="https://img.youtube.com/vi/-_oa46147P8/mqdefault.jpg" width="220" alt="Everyone Is Starting AI Projects Wrong" />
-      </a>
-      <br />
-      <sub><b>Everyone Is Starting AI Projects Wrong</b></sub>
     </td>
   </tr>
 </table>
