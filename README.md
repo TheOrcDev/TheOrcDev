@@ -36,25 +36,25 @@ I make dev content, open-source tools, and build **Shipper Club**: a private adv
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/shorts/M2Po2ygpKPc">
+        <img src="https://img.youtube.com/vi/M2Po2ygpKPc/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
+      </a>
+      <br />
+      <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/shorts/017Gr6rTknI">
+        <img src="https://img.youtube.com/vi/017Gr6rTknI/mqdefault.jpg" width="220" alt="Testing a New Video Style… What Do You Think?" />
+      </a>
+      <br />
+      <sub><b>Testing a New Video Style… What Do You Think?</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/shorts/RxHYFMFJaG0">
         <img src="https://img.youtube.com/vi/RxHYFMFJaG0/mqdefault.jpg" width="220" alt="Tanstack Packages Compromised" />
       </a>
       <br />
       <sub><b>Tanstack Packages Compromised</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/aI9vboClqaA">
-        <img src="https://img.youtube.com/vi/aI9vboClqaA/mqdefault.jpg" width="220" alt="Free AI Design Tool That Feels Illegal!" />
-      </a>
-      <br />
-      <sub><b>Free AI Design Tool That Feels Illegal!</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/EstMdRSFeYY">
-        <img src="https://img.youtube.com/vi/EstMdRSFeYY/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
-      </a>
-      <br />
-      <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
     </td>
   </tr>
 </table>
