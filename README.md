@@ -36,6 +36,13 @@ I make dev content, open-source tools, and build **Shipper Club**: a private adv
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/shorts/Rse8ItrYqYE">
+        <img src="https://img.youtube.com/vi/Rse8ItrYqYE/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
+      </a>
+      <br />
+      <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/shorts/-1i4EQXg-b8">
         <img src="https://img.youtube.com/vi/-1i4EQXg-b8/mqdefault.jpg" width="220" alt="Being Chronically Online Is a Survival Skill" />
       </a>
@@ -48,13 +55,6 @@ I make dev content, open-source tools, and build **Shipper Club**: a private adv
       </a>
       <br />
       <sub><b>Developer vs Content Creator</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/M2Po2ygpKPc">
-        <img src="https://img.youtube.com/vi/M2Po2ygpKPc/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
-      </a>
-      <br />
-      <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
     </td>
   </tr>
 </table>
