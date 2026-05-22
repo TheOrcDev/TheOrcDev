@@ -36,25 +36,25 @@ I make dev content, open-source tools, and build **Shipper Club**: a private adv
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/shorts/_aN45vrTGiI">
+        <img src="https://img.youtube.com/vi/_aN45vrTGiI/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
+      </a>
+      <br />
+      <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=aHLVqP5pnDc">
+        <img src="https://img.youtube.com/vi/aHLVqP5pnDc/mqdefault.jpg" width="220" alt="I Found The CRAZIEST Animation Library Svelte Needed" />
+      </a>
+      <br />
+      <sub><b>I Found The CRAZIEST Animation Library Svelte Needed</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/shorts/G4D7yhCHxPw">
         <img src="https://img.youtube.com/vi/G4D7yhCHxPw/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
       </a>
       <br />
       <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/WcYnJ2rJdso">
-        <img src="https://img.youtube.com/vi/WcYnJ2rJdso/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
-      </a>
-      <br />
-      <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=W8wECVc3z6E">
-        <img src="https://img.youtube.com/vi/W8wECVc3z6E/mqdefault.jpg" width="220" alt="I Put Grok Build to the Test" />
-      </a>
-      <br />
-      <sub><b>I Put Grok Build to the Test</b></sub>
     </td>
   </tr>
 </table>
