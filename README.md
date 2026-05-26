@@ -36,6 +36,13 @@ I make dev content, open-source tools, and build **Shipper Club**: a private adv
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=ZF3XcIyUsAM">
+        <img src="https://img.youtube.com/vi/ZF3XcIyUsAM/mqdefault.jpg" width="220" alt="5 Open Source Tools That Feel Illegal To Be Free" />
+      </a>
+      <br />
+      <sub><b>5 Open Source Tools That Feel Illegal To Be Free</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/shorts/9X1SNfvg2iw">
         <img src="https://img.youtube.com/vi/9X1SNfvg2iw/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
       </a>
@@ -48,13 +55,6 @@ I make dev content, open-source tools, and build **Shipper Club**: a private adv
       </a>
       <br />
       <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=f7QhgsnDMCo">
-        <img src="https://img.youtube.com/vi/f7QhgsnDMCo/mqdefault.jpg" width="220" alt="Reviewing YOUR Open Source Projects LIVE" />
-      </a>
-      <br />
-      <sub><b>Reviewing YOUR Open Source Projects LIVE</b></sub>
     </td>
   </tr>
 </table>
