@@ -10,6 +10,7 @@ I make dev content, open-source tools, and build **Shipper Club**: a private adv
 <a href="https://orcdev.com"><img alt="Website" src="https://shieldcn.dev/badge/Website-orcdev.com-0ea5e9.svg?logo=googlechrome"></a>
 <a href="https://x.com/orcdev"><img alt="X" src="https://shieldcn.dev/x/follow/orcdev.svg?variant=branded"></a>
 <a href="https://shipper.club"><img alt="Shipper Club" src="https://shieldcn.dev/badge/Shipper_Club-shipper.club-16a34a.svg?logo=github"></a>
+<a href="https://shipper.club"><img alt="shipper.club member" src="https://shieldcn.dev/shipperclub.svg"></a>
 <a href="https://github.com/sponsors/TheOrcDev"><img alt="Sponsor" src="https://shieldcn.dev/badge/Sponsor-%E2%9D%A4-db2777.svg?logo=githubsponsors"></a>
 
 </div>
