@@ -6,11 +6,11 @@
 
 I make dev content, open-source tools, and build **Shipper Club**: a private advantage layer for modern builders who want to ship faster and sharper.
 
-<a href="https://www.youtube.com/@OrcDev"><img alt="YouTube" src="https://shieldcn.dev/badge/YouTube-OrcDev-red.png?logo=youtube"></a>
-<a href="https://orcdev.com"><img alt="Website" src="https://shieldcn.dev/badge/Website-orcdev.com-0ea5e9.png?logo=googlechrome"></a>
-<a href="https://x.com/orcdev"><img alt="X" src="https://shieldcn.dev/x/follow/orcdev.png?variant=branded"></a>
-<a href="https://shipper.club"><img alt="Shipper Club" src="https://shieldcn.dev/badge/Shipper_Club-shipper.club-16a34a.png?logo=github"></a>
-<a href="https://github.com/sponsors/TheOrcDev"><img alt="Sponsor" src="https://shieldcn.dev/badge/Sponsor-%E2%9D%A4-db2777.png?logo=githubsponsors"></a>
+<a href="https://www.youtube.com/@OrcDev"><img alt="YouTube" src="https://shieldcn.dev/badge/YouTube-OrcDev-red.svg?logo=youtube"></a>
+<a href="https://orcdev.com"><img alt="Website" src="https://shieldcn.dev/badge/Website-orcdev.com-0ea5e9.svg?logo=googlechrome"></a>
+<a href="https://x.com/orcdev"><img alt="X" src="https://shieldcn.dev/x/follow/orcdev.svg?variant=branded"></a>
+<a href="https://shipper.club"><img alt="Shipper Club" src="https://shieldcn.dev/badge/Shipper_Club-shipper.club-16a34a.svg?logo=github"></a>
+<a href="https://github.com/sponsors/TheOrcDev"><img alt="Sponsor" src="https://shieldcn.dev/badge/Sponsor-%E2%9D%A4-db2777.svg?logo=githubsponsors"></a>
 
 </div>
 
