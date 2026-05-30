@@ -37,25 +37,25 @@ I make dev content, open-source tools, and build **Shipper Club**: a private adv
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/shorts/OlUte9oVeZE">
+        <img src="https://img.youtube.com/vi/OlUte9oVeZE/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
+      </a>
+      <br />
+      <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=LwuG2qM3LyI">
+        <img src="https://img.youtube.com/vi/LwuG2qM3LyI/mqdefault.jpg" width="220" alt="I Tried Opus 4.8..." />
+      </a>
+      <br />
+      <sub><b>I Tried Opus 4.8...</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=fHQ8JOdinNk">
         <img src="https://img.youtube.com/vi/fHQ8JOdinNk/mqdefault.jpg" width="220" alt="Opus 4.8 JUST DROPPED… Testing It LIVE ⚔️" />
       </a>
       <br />
       <sub><b>Opus 4.8 JUST DROPPED… Testing It LIVE ⚔️</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/Eapy4LnOPDI">
-        <img src="https://img.youtube.com/vi/Eapy4LnOPDI/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
-      </a>
-      <br />
-      <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/2KlQlWoFQEI">
-        <img src="https://img.youtube.com/vi/2KlQlWoFQEI/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
-      </a>
-      <br />
-      <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
     </td>
   </tr>
 </table>
