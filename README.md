@@ -37,6 +37,13 @@ I make dev content, open-source tools, and build **Shipper Club**: a private adv
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=h2nGDtkSISM">
+        <img src="https://img.youtube.com/vi/h2nGDtkSISM/mqdefault.jpg" width="220" alt="Testing out Videorc LIVE" />
+      </a>
+      <br />
+      <sub><b>Testing out Videorc LIVE</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=rTJzsHwpZko">
         <img src="https://img.youtube.com/vi/rTJzsHwpZko/mqdefault.jpg" width="220" alt="This Shadcn Update Is Actually Crazy" />
       </a>
@@ -46,13 +53,6 @@ I make dev content, open-source tools, and build **Shipper Club**: a private adv
     <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/shorts/ACBRw8agaV8">
         <img src="https://img.youtube.com/vi/ACBRw8agaV8/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
-      </a>
-      <br />
-      <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/OlUte9oVeZE">
-        <img src="https://img.youtube.com/vi/OlUte9oVeZE/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
       </a>
       <br />
       <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
