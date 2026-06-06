@@ -37,6 +37,13 @@ I make dev content, open-source tools, and build **Shipper Club**: a private adv
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=ERwC2ZOyh8A">
+        <img src="https://img.youtube.com/vi/ERwC2ZOyh8A/mqdefault.jpg" width="220" alt="How I Give AI Agents Work For The Entire Night" />
+      </a>
+      <br />
+      <sub><b>How I Give AI Agents Work For The Entire Night</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=DTD3OoEwoLU">
         <img src="https://img.youtube.com/vi/DTD3OoEwoLU/mqdefault.jpg" width="220" alt="4 UI Libraries You&#39;ve Never Heard Of" />
       </a>
@@ -49,13 +56,6 @@ I make dev content, open-source tools, and build **Shipper Club**: a private adv
       </a>
       <br />
       <sub><b>Testing out Videorc LIVE</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=rTJzsHwpZko">
-        <img src="https://img.youtube.com/vi/rTJzsHwpZko/mqdefault.jpg" width="220" alt="This Shadcn Update Is Actually Crazy" />
-      </a>
-      <br />
-      <sub><b>This Shadcn Update Is Actually Crazy</b></sub>
     </td>
   </tr>
 </table>
