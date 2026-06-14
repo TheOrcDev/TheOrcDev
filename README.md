@@ -37,6 +37,13 @@ I make dev content, open-source tools, and build **Shipper Club**: a private adv
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/shorts/qcdVUhjydVs">
+        <img src="https://img.youtube.com/vi/qcdVUhjydVs/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
+      </a>
+      <br />
+      <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=4LkOmztVndg">
         <img src="https://img.youtube.com/vi/4LkOmztVndg/mqdefault.jpg" width="220" alt="Working on Videorc" />
       </a>
@@ -49,13 +56,6 @@ I make dev content, open-source tools, and build **Shipper Club**: a private adv
       </a>
       <br />
       <sub><b>How I Give AI Agents Work For The Entire Night</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=DTD3OoEwoLU">
-        <img src="https://img.youtube.com/vi/DTD3OoEwoLU/mqdefault.jpg" width="220" alt="4 UI Libraries You&#39;ve Never Heard Of" />
-      </a>
-      <br />
-      <sub><b>4 UI Libraries You&#39;ve Never Heard Of</b></sub>
     </td>
   </tr>
 </table>
