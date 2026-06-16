@@ -37,6 +37,13 @@ I make dev content, open-source tools, and build **Shipper Club**: a private adv
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/shorts/xcUzzk6TiQw">
+        <img src="https://img.youtube.com/vi/xcUzzk6TiQw/mqdefault.jpg" width="220" alt="You Can Actually Get Hosting for FREE Now" />
+      </a>
+      <br />
+      <sub><b>You Can Actually Get Hosting for FREE Now</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/shorts/-8vgeIIovZU">
         <img src="https://img.youtube.com/vi/-8vgeIIovZU/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
       </a>
@@ -49,13 +56,6 @@ I make dev content, open-source tools, and build **Shipper Club**: a private adv
       </a>
       <br />
       <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=4LkOmztVndg">
-        <img src="https://img.youtube.com/vi/4LkOmztVndg/mqdefault.jpg" width="220" alt="Working on Videorc" />
-      </a>
-      <br />
-      <sub><b>Working on Videorc</b></sub>
     </td>
   </tr>
 </table>
