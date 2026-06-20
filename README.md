@@ -37,6 +37,13 @@ I make dev content, open-source tools, and build **Shipper Club**: a private adv
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=XK1-c3fK7Y8">
+        <img src="https://img.youtube.com/vi/XK1-c3fK7Y8/mqdefault.jpg" width="220" alt="5 Open Source Tools That Feel Illegal To Be Free" />
+      </a>
+      <br />
+      <sub><b>5 Open Source Tools That Feel Illegal To Be Free</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/shorts/xcUzzk6TiQw">
         <img src="https://img.youtube.com/vi/xcUzzk6TiQw/mqdefault.jpg" width="220" alt="You Can Actually Get Hosting for FREE Now" />
       </a>
@@ -46,13 +53,6 @@ I make dev content, open-source tools, and build **Shipper Club**: a private adv
     <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/shorts/-8vgeIIovZU">
         <img src="https://img.youtube.com/vi/-8vgeIIovZU/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
-      </a>
-      <br />
-      <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/qcdVUhjydVs">
-        <img src="https://img.youtube.com/vi/qcdVUhjydVs/mqdefault.jpg" width="220" alt="Open Source Tool That Feels Illegal to Be Free (par…" />
       </a>
       <br />
       <sub><b>Open Source Tool That Feels Illegal to Be Free (par…</b></sub>
