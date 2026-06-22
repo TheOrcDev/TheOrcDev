@@ -38,10 +38,10 @@ I make dev content, open-source tools, and build **Shipper Club**: a private adv
   <tr>
     <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=XK1-c3fK7Y8">
-        <img src="https://img.youtube.com/vi/XK1-c3fK7Y8/mqdefault.jpg" width="220" alt="5 Open Source Tools That Feel Illegal To Be Free" />
+        <img src="https://img.youtube.com/vi/XK1-c3fK7Y8/mqdefault.jpg" width="220" alt="These 5 Open Source Tools Shouldn&#39;t Be Free" />
       </a>
       <br />
-      <sub><b>5 Open Source Tools That Feel Illegal To Be Free</b></sub>
+      <sub><b>These 5 Open Source Tools Shouldn&#39;t Be Free</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/shorts/xcUzzk6TiQw">
