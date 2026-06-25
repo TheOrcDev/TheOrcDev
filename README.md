@@ -37,6 +37,13 @@ I make dev content, open-source tools, and build **Shipper Club**: a private adv
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/shorts/1dSbx34-VyU">
+        <img src="https://img.youtube.com/vi/1dSbx34-VyU/mqdefault.jpg" width="220" alt="Your AI Agents Need This" />
+      </a>
+      <br />
+      <sub><b>Your AI Agents Need This</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=ZK3Lzvc-wxY">
         <img src="https://img.youtube.com/vi/ZK3Lzvc-wxY/mqdefault.jpg" width="220" alt="30K Subscribers Q&amp;A ⚔️ Ask Me Anything" />
       </a>
@@ -49,13 +56,6 @@ I make dev content, open-source tools, and build **Shipper Club**: a private adv
       </a>
       <br />
       <sub><b>How To Write A README People Actually Read</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=XK1-c3fK7Y8">
-        <img src="https://img.youtube.com/vi/XK1-c3fK7Y8/mqdefault.jpg" width="220" alt="These 5 Open Source Tools Shouldn&#39;t Be Free" />
-      </a>
-      <br />
-      <sub><b>These 5 Open Source Tools Shouldn&#39;t Be Free</b></sub>
     </td>
   </tr>
 </table>
