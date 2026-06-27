@@ -37,6 +37,13 @@ I make dev content, open-source tools, and build **Shipper Club**: a private adv
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=Ztv58oXKnJ0">
+        <img src="https://img.youtube.com/vi/Ztv58oXKnJ0/mqdefault.jpg" width="220" alt="NEW Shadcn Components Revealed! (Exclusive First Lo…" />
+      </a>
+      <br />
+      <sub><b>NEW Shadcn Components Revealed! (Exclusive First Lo…</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/shorts/1dSbx34-VyU">
         <img src="https://img.youtube.com/vi/1dSbx34-VyU/mqdefault.jpg" width="220" alt="Your AI Agents Need This" />
       </a>
@@ -49,13 +56,6 @@ I make dev content, open-source tools, and build **Shipper Club**: a private adv
       </a>
       <br />
       <sub><b>30K Subscribers Q&amp;A ⚔️ Ask Me Anything</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=fDJNt67xdvQ">
-        <img src="https://img.youtube.com/vi/fDJNt67xdvQ/mqdefault.jpg" width="220" alt="How To Write A README People Actually Read" />
-      </a>
-      <br />
-      <sub><b>How To Write A README People Actually Read</b></sub>
     </td>
   </tr>
 </table>
