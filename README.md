@@ -38,10 +38,10 @@ I make dev content, open-source tools, and build **Shipper Club**: a private adv
   <tr>
     <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=PkqYkxFA4g8">
-        <img src="https://img.youtube.com/vi/PkqYkxFA4g8/mqdefault.jpg" width="220" alt="Fable 5 Is Back, What Now?" />
+        <img src="https://img.youtube.com/vi/PkqYkxFA4g8/mqdefault.jpg" width="220" alt="Don&#39;t Use Fable 5 Until You Watch This" />
       </a>
       <br />
-      <sub><b>Fable 5 Is Back, What Now?</b></sub>
+      <sub><b>Don&#39;t Use Fable 5 Until You Watch This</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=gb2LJv992Sw">
