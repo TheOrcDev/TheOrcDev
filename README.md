@@ -37,6 +37,13 @@ I make dev content, open-source tools, and build **Shipper Club**: a private adv
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=QL2VpJJPg2I">
+        <img src="https://img.youtube.com/vi/QL2VpJJPg2I/mqdefault.jpg" width="220" alt="This Changes How AI Agents Build Apps" />
+      </a>
+      <br />
+      <sub><b>This Changes How AI Agents Build Apps</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=PkqYkxFA4g8">
         <img src="https://img.youtube.com/vi/PkqYkxFA4g8/mqdefault.jpg" width="220" alt="Don&#39;t Use Fable 5 Until You Watch This" />
       </a>
@@ -49,13 +56,6 @@ I make dev content, open-source tools, and build **Shipper Club**: a private adv
       </a>
       <br />
       <sub><b>You Can Build Videos with Shadcn UI Now 🤯</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=Ztv58oXKnJ0">
-        <img src="https://img.youtube.com/vi/Ztv58oXKnJ0/mqdefault.jpg" width="220" alt="NEW Shadcn Components Revealed! (Exclusive First Lo…" />
-      </a>
-      <br />
-      <sub><b>NEW Shadcn Components Revealed! (Exclusive First Lo…</b></sub>
     </td>
   </tr>
 </table>
