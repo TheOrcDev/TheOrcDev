@@ -37,6 +37,13 @@ I make dev content, open-source tools, and build **Shipper Club**: a private adv
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=oD5l1dIyZxA">
+        <img src="https://img.youtube.com/vi/oD5l1dIyZxA/mqdefault.jpg" width="220" alt="Shadcn Just Fixed Markdown" />
+      </a>
+      <br />
+      <sub><b>Shadcn Just Fixed Markdown</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=wgfWPJGT6u8">
         <img src="https://img.youtube.com/vi/wgfWPJGT6u8/mqdefault.jpg" width="220" alt="The Self-Hosted AI Agent Platform Enterprises Actua…" />
       </a>
@@ -49,13 +56,6 @@ I make dev content, open-source tools, and build **Shipper Club**: a private adv
       </a>
       <br />
       <sub><b>This Changes How AI Agents Build Apps</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=PkqYkxFA4g8">
-        <img src="https://img.youtube.com/vi/PkqYkxFA4g8/mqdefault.jpg" width="220" alt="Don&#39;t Use Fable 5 Until You Watch This" />
-      </a>
-      <br />
-      <sub><b>Don&#39;t Use Fable 5 Until You Watch This</b></sub>
     </td>
   </tr>
 </table>
