@@ -37,25 +37,25 @@ I make dev content, open-source tools, and build **Shipper Club**: a private adv
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=shyxIzM0qw4">
+        <img src="https://img.youtube.com/vi/shyxIzM0qw4/mqdefault.jpg" width="220" alt="I Built an Open Source Video &amp; Streaming App" />
+      </a>
+      <br />
+      <sub><b>I Built an Open Source Video &amp; Streaming App</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=0SCp--5y0gg">
+        <img src="https://img.youtube.com/vi/0SCp--5y0gg/mqdefault.jpg" width="220" alt="Testing out Videorc LIVE" />
+      </a>
+      <br />
+      <sub><b>Testing out Videorc LIVE</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=oD5l1dIyZxA">
         <img src="https://img.youtube.com/vi/oD5l1dIyZxA/mqdefault.jpg" width="220" alt="Shadcn Just Fixed Markdown" />
       </a>
       <br />
       <sub><b>Shadcn Just Fixed Markdown</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=wgfWPJGT6u8">
-        <img src="https://img.youtube.com/vi/wgfWPJGT6u8/mqdefault.jpg" width="220" alt="The Self-Hosted AI Agent Platform Enterprises Actua…" />
-      </a>
-      <br />
-      <sub><b>The Self-Hosted AI Agent Platform Enterprises Actua…</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=QL2VpJJPg2I">
-        <img src="https://img.youtube.com/vi/QL2VpJJPg2I/mqdefault.jpg" width="220" alt="This Changes How AI Agents Build Apps" />
-      </a>
-      <br />
-      <sub><b>This Changes How AI Agents Build Apps</b></sub>
     </td>
   </tr>
 </table>
