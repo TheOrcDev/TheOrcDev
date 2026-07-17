@@ -37,6 +37,13 @@ I make dev content, open-source tools, and build **Shipper Club**: a private adv
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=Scx-eiVdErk">
+        <img src="https://img.youtube.com/vi/Scx-eiVdErk/mqdefault.jpg" width="220" alt="Should You Use Grok 4.5?" />
+      </a>
+      <br />
+      <sub><b>Should You Use Grok 4.5?</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=shyxIzM0qw4">
         <img src="https://img.youtube.com/vi/shyxIzM0qw4/mqdefault.jpg" width="220" alt="I Built an Open Source Video &amp; Streaming App" />
       </a>
@@ -49,13 +56,6 @@ I make dev content, open-source tools, and build **Shipper Club**: a private adv
       </a>
       <br />
       <sub><b>Testing out Videorc LIVE</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=oD5l1dIyZxA">
-        <img src="https://img.youtube.com/vi/oD5l1dIyZxA/mqdefault.jpg" width="220" alt="Shadcn Just Fixed Markdown" />
-      </a>
-      <br />
-      <sub><b>Shadcn Just Fixed Markdown</b></sub>
     </td>
   </tr>
 </table>
