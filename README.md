@@ -37,6 +37,13 @@ I make dev content, open-source tools, and build **Shipper Club**: a private adv
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=Yftw72CccsE">
+        <img src="https://img.youtube.com/vi/Yftw72CccsE/mqdefault.jpg" width="220" alt="The Perfect README in Under 5 Minutes" />
+      </a>
+      <br />
+      <sub><b>The Perfect README in Under 5 Minutes</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=bC9tspEF0TM">
         <img src="https://img.youtube.com/vi/bC9tspEF0TM/mqdefault.jpg" width="220" alt="This Tool Fixes Every Shadcn Project" />
       </a>
@@ -49,13 +56,6 @@ I make dev content, open-source tools, and build **Shipper Club**: a private adv
       </a>
       <br />
       <sub><b>Opus 5 - Testing it out</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=aVgR5YHk4QA">
-        <img src="https://img.youtube.com/vi/aVgR5YHk4QA/mqdefault.jpg" width="220" alt="The Biggest Web UI Breakthrough in Years" />
-      </a>
-      <br />
-      <sub><b>The Biggest Web UI Breakthrough in Years</b></sub>
     </td>
   </tr>
 </table>
