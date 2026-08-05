@@ -23,7 +23,7 @@ Free. Always will be. No course at the end.
 
 Every issue you get:
 
-- The tool or workflow I'm using right now — and whether it's actually worth your time
+- The tool or workflow I'm using right now
 - How I really use AI to ship faster. The parts that work, and the parts that don't
 - Breakdowns of what I build
 - The mistake I made this week, so you get to skip it
