@@ -11,7 +11,7 @@ Most people teach. I'd rather show you the actual build — including the parts 
 <a href="https://www.orcdev.com"><img alt="Newsletter" src="https://img.shields.io/badge/Newsletter-Free%2C%20every%20week-94e14a?style=for-the-badge&logoColor=white"></a>
 <a href="https://www.youtube.com/@OrcDev"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-31k-red?style=for-the-badge&logo=youtube&logoColor=white"></a>
 <a href="https://x.com/orcdev"><img alt="X" src="https://img.shields.io/badge/X-@orcdev-111111?style=for-the-badge&logo=x&logoColor=white"></a>
-<a href="https://discord.com/invite/uFB5YzH9YG"><img alt="Discord" src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://shipper.club"><img alt="Shipper Club" src="https://img.shields.io/badge/Shipper%20Club-Join-16a34a?style=for-the-badge&logoColor=white"></a>
 
 </div>
 
