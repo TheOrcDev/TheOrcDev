@@ -64,6 +64,13 @@ Some of these people actually use. Some nobody touched. Every one taught me some
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/shorts/FdpnxGe9Cag">
+        <img src="https://img.youtube.com/vi/FdpnxGe9Cag/mqdefault.jpg" width="220" alt="No video editor. Just a prompt." />
+      </a>
+      <br />
+      <sub><b>No video editor. Just a prompt.</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=Yftw72CccsE">
         <img src="https://img.youtube.com/vi/Yftw72CccsE/mqdefault.jpg" width="220" alt="The Perfect README in Under 5 Minutes" />
       </a>
@@ -76,13 +83,6 @@ Some of these people actually use. Some nobody touched. Every one taught me some
       </a>
       <br />
       <sub><b>This Tool Fixes Every Shadcn Project</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=VR6dz3NPHoQ">
-        <img src="https://img.youtube.com/vi/VR6dz3NPHoQ/mqdefault.jpg" width="220" alt="Opus 5 - Testing it out" />
-      </a>
-      <br />
-      <sub><b>Opus 5 - Testing it out</b></sub>
     </td>
   </tr>
 </table>
