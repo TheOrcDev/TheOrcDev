@@ -64,25 +64,25 @@ Some of these people actually use. Some nobody touched. Every one taught me some
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/shorts/8Ytu2BxZlnk">
+        <img src="https://img.youtube.com/vi/8Ytu2BxZlnk/mqdefault.jpg" width="220" alt="I went AFK and Grok built my entire game" />
+      </a>
+      <br />
+      <sub><b>I went AFK and Grok built my entire game</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/shorts/wJQr1ei7EKQ">
+        <img src="https://img.youtube.com/vi/wJQr1ei7EKQ/mqdefault.jpg" width="220" alt="Audit your shadcn UI in one command" />
+      </a>
+      <br />
+      <sub><b>Audit your shadcn UI in one command</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/shorts/FdpnxGe9Cag">
         <img src="https://img.youtube.com/vi/FdpnxGe9Cag/mqdefault.jpg" width="220" alt="No video editor. Just a prompt." />
       </a>
       <br />
       <sub><b>No video editor. Just a prompt.</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=Yftw72CccsE">
-        <img src="https://img.youtube.com/vi/Yftw72CccsE/mqdefault.jpg" width="220" alt="The Perfect README in Under 5 Minutes" />
-      </a>
-      <br />
-      <sub><b>The Perfect README in Under 5 Minutes</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=bC9tspEF0TM">
-        <img src="https://img.youtube.com/vi/bC9tspEF0TM/mqdefault.jpg" width="220" alt="This Tool Fixes Every Shadcn Project" />
-      </a>
-      <br />
-      <sub><b>This Tool Fixes Every Shadcn Project</b></sub>
     </td>
   </tr>
 </table>
