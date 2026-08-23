@@ -64,25 +64,25 @@ Some of these people actually use. Some nobody touched. Every one taught me some
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/8Ytu2BxZlnk">
-        <img src="https://img.youtube.com/vi/8Ytu2BxZlnk/mqdefault.jpg" width="220" alt="I went AFK and Grok built my entire game" />
+      <a href="https://www.youtube.com/watch?v=9k5Ybvi2H_g">
+        <img src="https://img.youtube.com/vi/9k5Ybvi2H_g/mqdefault.jpg" width="220" alt="Grok 4.6 is the most token efficient AI model" />
       </a>
       <br />
-      <sub><b>I went AFK and Grok built my entire game</b></sub>
+      <sub><b>Grok 4.6 is the most token efficient AI model</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/wJQr1ei7EKQ">
-        <img src="https://img.youtube.com/vi/wJQr1ei7EKQ/mqdefault.jpg" width="220" alt="Audit your shadcn UI in one command" />
+      <a href="https://www.youtube.com/watch?v=nJP069siWbA">
+        <img src="https://img.youtube.com/vi/nJP069siWbA/mqdefault.jpg" width="220" alt="Is This the End of GitHub?" />
       </a>
       <br />
-      <sub><b>Audit your shadcn UI in one command</b></sub>
+      <sub><b>Is This the End of GitHub?</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/FdpnxGe9Cag">
-        <img src="https://img.youtube.com/vi/FdpnxGe9Cag/mqdefault.jpg" width="220" alt="No video editor. Just a prompt." />
+      <a href="https://www.youtube.com/shorts/0ZTtUeWpS0c">
+        <img src="https://img.youtube.com/vi/0ZTtUeWpS0c/mqdefault.jpg" width="220" alt="This Shadcn Dashboard Has EVERYTHING" />
       </a>
       <br />
-      <sub><b>No video editor. Just a prompt.</b></sub>
+      <sub><b>This Shadcn Dashboard Has EVERYTHING</b></sub>
     </td>
   </tr>
 </table>
