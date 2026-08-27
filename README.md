@@ -64,25 +64,25 @@ Some of these people actually use. Some nobody touched. Every one taught me some
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=nFCbaYbx6-0">
+        <img src="https://img.youtube.com/vi/nFCbaYbx6-0/mqdefault.jpg" width="220" alt="Shadcn Just Released the Perfect AI Chatbot" />
+      </a>
+      <br />
+      <sub><b>Shadcn Just Released the Perfect AI Chatbot</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=1xwi0hKMsGc">
+        <img src="https://img.youtube.com/vi/1xwi0hKMsGc/mqdefault.jpg" width="220" alt="I Can’t Believe These 3D Templates Are Free" />
+      </a>
+      <br />
+      <sub><b>I Can’t Believe These 3D Templates Are Free</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=9k5Ybvi2H_g">
         <img src="https://img.youtube.com/vi/9k5Ybvi2H_g/mqdefault.jpg" width="220" alt="Grok 4.6 is the most token efficient AI model" />
       </a>
       <br />
       <sub><b>Grok 4.6 is the most token efficient AI model</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=nJP069siWbA">
-        <img src="https://img.youtube.com/vi/nJP069siWbA/mqdefault.jpg" width="220" alt="Is This the End of GitHub?" />
-      </a>
-      <br />
-      <sub><b>Is This the End of GitHub?</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/0ZTtUeWpS0c">
-        <img src="https://img.youtube.com/vi/0ZTtUeWpS0c/mqdefault.jpg" width="220" alt="This Shadcn Dashboard Has EVERYTHING" />
-      </a>
-      <br />
-      <sub><b>This Shadcn Dashboard Has EVERYTHING</b></sub>
     </td>
   </tr>
 </table>
