@@ -2,11 +2,11 @@
 
 # OrcDev
 
-### I ship real products in public — and show you exactly how.
+### I ship real products in public, and show you exactly how.
 
 **21 shipped projects. 31k builders on YouTube. Everything I learn goes out free.**
 
-Most people teach. I'd rather show you the actual build — including the parts that broke.
+Most people teach. I'd rather show you the actual build, including the parts that broke.
 
 <a href="https://www.orcdev.com"><img alt="Newsletter" src="https://img.shields.io/badge/Newsletter-Free%2C%20every%20week-94e14a?style=for-the-badge&logoColor=white"></a>
 <a href="https://www.youtube.com/@OrcDev"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-31k-red?style=for-the-badge&logo=youtube&logoColor=white"></a>
