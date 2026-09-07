@@ -2,11 +2,11 @@
 
 # OrcDev
 
-### I ship real products in public — and show you exactly how.
+### I ship real products in public, and show you exactly how.
 
 **21 shipped projects. 31k builders on YouTube. Everything I learn goes out free.**
 
-Most people teach. I'd rather show you the actual build — including the parts that broke.
+Most people teach. I'd rather show you the actual build, including the parts that broke.
 
 <a href="https://www.orcdev.com"><img alt="Newsletter" src="https://img.shields.io/badge/Newsletter-Free%2C%20every%20week-94e14a?style=for-the-badge&logoColor=white"></a>
 <a href="https://www.youtube.com/@OrcDev"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-31k-red?style=for-the-badge&logo=youtube&logoColor=white"></a>
@@ -17,20 +17,7 @@ Most people teach. I'd rather show you the actual build — including the parts 
 
 ---
 
-## 📬 The newsletter
-
-Free. Always will be. No course at the end.
-
-Every issue you get:
-
-- The tool or workflow I'm using right now
-- How I really use AI to ship faster. The parts that work, and the parts that don't
-- Breakdowns of what I build
-- The mistake I made this week, so you get to skip it
-
-**It's for you if** you build things, or you're trying to, and you want the shortcut that isn't a scam.
-
-### → **[Get it at orcdev.com](https://www.orcdev.com)**
+**The newsletter:** [orcdev.com/newsletter](https://orcdev.com/newsletter)
 
 ---
 
