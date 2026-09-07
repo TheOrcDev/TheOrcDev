@@ -17,20 +17,7 @@ Most people teach. I'd rather show you the actual build, including the parts tha
 
 ---
 
-## 📬 The newsletter
-
-Free. Always will be. No course at the end.
-
-Every issue you get:
-
-- The tool or workflow I'm using right now
-- How I really use AI to ship faster. The parts that work, and the parts that don't
-- Breakdowns of what I build
-- The mistake I made this week, so you get to skip it
-
-**It's for you if** you build things, or you're trying to, and you want the shortcut that isn't a scam.
-
-### → **[Get it at orcdev.com](https://www.orcdev.com)**
+**The newsletter:** [orcdev.com/newsletter](https://orcdev.com/newsletter)
 
 ---
 
