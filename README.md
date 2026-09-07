@@ -34,29 +34,6 @@ Every issue you get:
 
 ---
 
-## 🛠️ What I've shipped
-
-| Project | What it is | |
-| :--- | :--- | :--- |
-| **[Videorc](https://videorc.com)** | AI-native Mac screen recorder and multistream studio. Record locally, stream everywhere. | `open source` |
-| **[AgentPacks](https://agentpacks.ai)** | Pre-configured AI agent teams that run in your workspace and keep your data local. | |
-| **[Shipper Club](https://shipper.club)** | Private community where modern builders sharpen their taste and ship faster. | |
-| **[shadscan](https://www.shadscan.com)** | Deterministic UI audits for shadcn apps. Accessibility, state and composition regressions, in your terminal and CI. | `open source` |
-| **[8bitcn/ui](https://8bitcn.com)** | shadcn/ui, but 8-bit. Drop-in components with a retro soul. | `open source` |
-| **[warcraftcn/ui](https://www.warcraftcn.com)** | Components inspired by classic Warcraft III RTS UI. Copy-paste ready. | `open source` |
-| **[RepoStars](https://repostars.dev)** | Track and compare GitHub star growth. Themeable charts, PNG exports, README embeds. | `open source` |
-| **[4 Elements](https://www.4elements.dev)** | Local-first benchmark pitting AI models against the same prompt, in interactive 3D. | `open source` |
-| **[GitHub Creature](https://www.githubcreature.com)** | Drop in a GitHub profile, get an AI creature forged from your contributions. | `open source` |
-| **[youtube2blog](https://youtube2blog.com)** | Turn YouTube videos into professional blog posts. | `open source` |
-| **[ORC-BALL](https://www.orcball.com)** | Retro Breakout across 20 levels. Power-ups, lasers, multi-ball. Free in your browser. | |
-| **[Just F***ing Use shadcn](https://justfuckinguseshadcn.com)** | A blunt guide to owning accessible, themeable UI without reinventing every component. | `open source` |
-
-Some of these people actually use. Some nobody touched. Every one taught me something I couldn't have learned reading about it.
-
-**[See all 21 →](https://www.orcdev.com)**
-
----
-
 ## 🎥 Latest YouTube videos
 
 <!-- YOUTUBE:START -->
