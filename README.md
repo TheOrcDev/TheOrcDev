@@ -17,10 +17,6 @@ Most people teach. I'd rather show you the actual build, including the parts tha
 
 ---
 
-**The newsletter:** [orcdev.com/newsletter](https://orcdev.com/newsletter)
-
----
-
 ## 🎥 Latest YouTube videos
 
 <!-- YOUTUBE:START -->
