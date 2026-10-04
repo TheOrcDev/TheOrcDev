@@ -24,25 +24,25 @@ Most people teach. I'd rather show you the actual build, including the parts tha
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=nFCbaYbx6-0">
-        <img src="https://img.youtube.com/vi/nFCbaYbx6-0/mqdefault.jpg" width="220" alt="Shadcn Just Released the Perfect AI Chatbot" />
+      <a href="https://www.youtube.com/watch?v=_Weir1dVFvM">
+        <img src="https://img.youtube.com/vi/_Weir1dVFvM/mqdefault.jpg" width="220" alt="LIVE: New Shadcn Project is HERE!!!" />
       </a>
       <br />
-      <sub><b>Shadcn Just Released the Perfect AI Chatbot</b></sub>
+      <sub><b>LIVE: New Shadcn Project is HERE!!!</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=1xwi0hKMsGc">
-        <img src="https://img.youtube.com/vi/1xwi0hKMsGc/mqdefault.jpg" width="220" alt="I Can’t Believe These 3D Templates Are Free" />
+      <a href="https://www.youtube.com/watch?v=pf3R41OIpjY">
+        <img src="https://img.youtube.com/vi/pf3R41OIpjY/mqdefault.jpg" width="220" alt="This New Shadcn Library Is CRAZY!" />
       </a>
       <br />
-      <sub><b>I Can’t Believe These 3D Templates Are Free</b></sub>
+      <sub><b>This New Shadcn Library Is CRAZY!</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=9k5Ybvi2H_g">
-        <img src="https://img.youtube.com/vi/9k5Ybvi2H_g/mqdefault.jpg" width="220" alt="Grok 4.6 is the most token efficient AI model" />
+      <a href="https://www.youtube.com/watch?v=HiNsdIpRiWg">
+        <img src="https://img.youtube.com/vi/HiNsdIpRiWg/mqdefault.jpg" width="220" alt="OpenAI Just Dropped Dots, Sol 6.1, and a $500 Plan" />
       </a>
       <br />
-      <sub><b>Grok 4.6 is the most token efficient AI model</b></sub>
+      <sub><b>OpenAI Just Dropped Dots, Sol 6.1, and a $500 Plan</b></sub>
     </td>
   </tr>
 </table>
