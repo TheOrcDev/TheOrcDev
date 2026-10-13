@@ -24,25 +24,25 @@ Most people teach. I'd rather show you the actual build, including the parts tha
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=_Weir1dVFvM">
-        <img src="https://img.youtube.com/vi/_Weir1dVFvM/mqdefault.jpg" width="220" alt="LIVE: New Shadcn Project is HERE!!!" />
+      <a href="https://www.youtube.com/watch?v=ZeXz1CHnCFg">
+        <img src="https://img.youtube.com/vi/ZeXz1CHnCFg/mqdefault.jpg" width="220" alt="4 Open Source Tools That Feel Illegal To Be Free" />
       </a>
       <br />
-      <sub><b>LIVE: New Shadcn Project is HERE!!!</b></sub>
+      <sub><b>4 Open Source Tools That Feel Illegal To Be Free</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=pf3R41OIpjY">
-        <img src="https://img.youtube.com/vi/pf3R41OIpjY/mqdefault.jpg" width="220" alt="This New Shadcn Library Is CRAZY!" />
+      <a href="https://www.youtube.com/watch?v=F8AmlDmqybU">
+        <img src="https://img.youtube.com/vi/F8AmlDmqybU/mqdefault.jpg" width="220" alt="Building Games, Apps and Videos With AI (LIVE)" />
       </a>
       <br />
-      <sub><b>This New Shadcn Library Is CRAZY!</b></sub>
+      <sub><b>Building Games, Apps and Videos With AI (LIVE)</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=HiNsdIpRiWg">
-        <img src="https://img.youtube.com/vi/HiNsdIpRiWg/mqdefault.jpg" width="220" alt="OpenAI Just Dropped Dots, Sol 6.1, and a $500 Plan" />
+      <a href="https://www.youtube.com/shorts/sRC9QExyvlU">
+        <img src="https://img.youtube.com/vi/sRC9QExyvlU/mqdefault.jpg" width="220" alt="I Need Your Help! ⚔️" />
       </a>
       <br />
-      <sub><b>OpenAI Just Dropped Dots, Sol 6.1, and a $500 Plan</b></sub>
+      <sub><b>I Need Your Help! ⚔️</b></sub>
     </td>
   </tr>
 </table>
