@@ -5,6 +5,13 @@ on:
     # Runs daily at 06:15 UTC (adjust if you want)
     - cron: "15 6 * * *"
   workflow_dispatch:
+  # Path-filtered so a script or workflow change is tested on GitHub runners.
+  # README-only commits from this job do not retrigger it.
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/youtube-readme.yml"
+      - "update-youtube-readme.mjs"
 
 permissions:
   contents: write
