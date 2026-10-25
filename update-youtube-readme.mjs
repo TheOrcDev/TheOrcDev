@@ -1,8 +1,21 @@
-// scripts/update-youtube-readme.mjs
+// update-youtube-readme.mjs
 import fs from "node:fs/promises";
 
-const FEED_URL =
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCClMPKqtJ1LbRBCDP948g5Q";
+const CHANNEL_ID = "UCClMPKqtJ1LbRBCDP948g5Q";
+
+// Long-form-only uploads playlist ("UULF" + channel id without the "UC" prefix).
+// YouTube keeps Shorts (UUSH) and livestreams (UULV) out of it, so its feed only
+// contains regular long-form videos. The plain channel feed mixes everything.
+const LONG_FORM_PLAYLIST_ID = `UULF${CHANNEL_ID.slice(2)}`;
+const LONG_FORM_FEED_URL = `https://www.youtube.com/feeds/videos.xml?playlist_id=${LONG_FORM_PLAYLIST_ID}`;
+const LONG_FORM_PLAYLIST_URL = `https://www.youtube.com/playlist?list=${LONG_FORM_PLAYLIST_ID}`;
+
+// Last-resort fallback when the playlist feed and playlist page are both blocked
+// (YouTube sometimes answers 404 to datacenter IPs).
+const VIDEOS_TAB_URL = "https://www.youtube.com/@OrcDev/videos";
+
+// Anything this short or shorter is treated as a Short on the Videos tab.
+const MIN_LONG_FORM_SECONDS = 180;
 
 const README_PATH = "README.md";
 const START = "<!-- YOUTUBE:START -->";
@@ -18,6 +31,14 @@ const TITLE_MAX = Number(process.env.TITLE_MAX ?? 52); // chars
 // Retry settings
 const MAX_RETRIES = 3;
 const RETRY_DELAY_MS = 2000;
+
+const FETCH_HEADERS = {
+  "User-Agent":
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+  Accept: "application/atom+xml, application/xml, text/xml, text/html, application/json, */*",
+  Cookie: "CONSENT=YES+1; SOCS=CAI",
+  "Accept-Language": "en-US,en;q=0.9",
+};
 
 function extractVideoIdFromLink(link) {
   const url = new URL(link);
@@ -66,44 +87,49 @@ function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-async function fetchFeedXml() {
-  let lastError;
-  
-  for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
-    try {
-      const controller = new AbortController();
-      const timeout = setTimeout(() => controller.abort(), 15000);
+function isRetryableStatus(status) {
+  return status !== 404 && status !== 403 && status !== 400 && status !== 401;
+}
 
-      const res = await fetch(FEED_URL, {
+async function fetchText(url) {
+  let lastError;
+
+  for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 15000);
+
+    try {
+      const res = await fetch(url, {
         signal: controller.signal,
-        headers: {
-          "User-Agent": "Mozilla/5.0 (compatible; GitHubActions/1.0; +https://github.com)",
-          "Accept": "application/atom+xml, application/xml, text/xml, */*",
-          "Accept-Language": "en-US,en;q=0.9",
-        },
+        headers: FETCH_HEADERS,
       });
 
-      clearTimeout(timeout);
-      
       if (res.ok) {
-        return await res.text();
+        const text = await res.text();
+        console.log(`Fetched ${url} (${text.length} bytes).`);
+        return text;
       }
-      
+
       lastError = new Error(`HTTP ${res.status} ${res.statusText}`);
-      console.warn(`Attempt ${attempt}/${MAX_RETRIES} failed: ${lastError.message}`);
-      
+      console.warn(`Attempt ${attempt}/${MAX_RETRIES} failed for ${url}: ${lastError.message}`);
+
+      if (!isRetryableStatus(res.status)) {
+        break;
+      }
     } catch (err) {
       lastError = err;
-      console.warn(`Attempt ${attempt}/${MAX_RETRIES} failed: ${err.message}`);
+      console.warn(`Attempt ${attempt}/${MAX_RETRIES} failed for ${url}: ${err.message}`);
+    } finally {
+      clearTimeout(timeout);
     }
-    
-    if (attempt < MAX_RETRIES) {
-      console.log(`Retrying in ${RETRY_DELAY_MS}ms...`);
-      await sleep(RETRY_DELAY_MS * attempt); // Exponential backoff
+
+    if (attempt < MAX_RETRIES && lastError) {
+      console.log(`Retrying in ${RETRY_DELAY_MS * attempt}ms...`);
+      await sleep(RETRY_DELAY_MS * attempt);
     }
   }
-  
-  throw new Error(`Failed to fetch RSS feed after ${MAX_RETRIES} attempts: ${lastError.message}`);
+
+  throw new Error(`Failed to fetch ${url} after ${MAX_RETRIES} attempts: ${lastError.message}`);
 }
 
 function extractAttr(tag, attrName) {
@@ -119,6 +145,7 @@ function parseEntries(xml) {
     const titleMatch = block.match(/<title>([\s\S]*?)<\/title>/);
     const linkTags = block.match(/<link[^>]*\/?>/g) ?? [];
     const publishedMatch = block.match(/<published>([\s\S]*?)<\/published>/);
+    const videoIdMatch = block.match(/<yt:videoId>([\s\S]*?)<\/yt:videoId>/);
 
     // YouTube can reorder attributes, so find alternate link by attributes instead of strict order
     let link = "";
@@ -131,30 +158,209 @@ function parseEntries(xml) {
       }
     }
 
+    if (!link && videoIdMatch?.[1]) {
+      link = `https://www.youtube.com/watch?v=${videoIdMatch[1].trim()}`;
+    }
+
     const rawTitle = titleMatch?.[1] ?? "";
     const title = decodeXmlEntities(rawTitle);
     const published = publishedMatch?.[1] ?? "";
 
     if (!title || !link) continue;
+    if (new URL(link).pathname.startsWith("/shorts/")) continue;
     entries.push({ title, link, published });
   }
 
   return entries;
 }
 
+function parseDuration(text) {
+  const parts = String(text ?? "").split(":").map(Number);
+  if (parts.length < 2 || parts.some(Number.isNaN)) return 0;
+  return parts.reduce((acc, n) => acc * 60 + n, 0);
+}
+
+function extractYtInitialData(html) {
+  const marker = "var ytInitialData = ";
+  const markerAt = html.indexOf(marker);
+  if (markerAt === -1) return null;
+
+  const braceStart = html.indexOf("{", markerAt);
+  if (braceStart === -1) return null;
+
+  let depth = 0;
+  let inString = false;
+  let escaped = false;
+
+  for (let i = braceStart; i < html.length; i++) {
+    const ch = html[i];
+
+    if (inString) {
+      if (escaped) {
+        escaped = false;
+        continue;
+      }
+      if (ch === "\\") {
+        escaped = true;
+        continue;
+      }
+      if (ch === '"') inString = false;
+      continue;
+    }
+
+    if (ch === '"') {
+      inString = true;
+      continue;
+    }
+    if (ch === "{") depth++;
+    else if (ch === "}") {
+      depth--;
+      if (depth === 0) {
+        return JSON.parse(html.slice(braceStart, i + 1));
+      }
+    }
+  }
+
+  return null;
+}
+
+function collectLockups(data) {
+  const tabs = data?.contents?.twoColumnBrowseResultsRenderer?.tabs ?? [];
+  const selected =
+    tabs.map((t) => t.tabRenderer).find((t) => t?.selected)?.content ??
+    tabs[0]?.tabRenderer?.content ??
+    data;
+
+  const lockups = [];
+  const seen = new Set();
+
+  (function walk(node) {
+    if (Array.isArray(node)) return node.forEach(walk);
+    if (node && typeof node === "object") {
+      const vm = node.lockupViewModel;
+      if (vm?.contentId && !seen.has(vm.contentId)) {
+        seen.add(vm.contentId);
+        lockups.push(vm);
+      }
+      for (const value of Object.values(node)) walk(value);
+    }
+  })(selected);
+
+  return lockups;
+}
+
+function lockupToEntry(lockup, { requireLongDuration }) {
+  const text = JSON.stringify(lockup);
+  const durations = [...text.matchAll(/"text":"(\d{1,2}(?::\d{2}){1,2})"/g)];
+  const seconds = durations.length ? parseDuration(durations[0][1]) : 0;
+  const isLive = /"text":"LIVE"|"text":"Streamed |"text":"Streaming /i.test(text);
+  const title = lockup.metadata?.lockupMetadataViewModel?.title?.content ?? "";
+  const contentType = String(lockup.contentType ?? "");
+  const isShort = /SHORT/i.test(contentType);
+
+  if (!title || isLive || isShort) return null;
+  if (requireLongDuration && seconds <= MIN_LONG_FORM_SECONDS) return null;
+
+  return {
+    title,
+    link: `https://www.youtube.com/watch?v=${lockup.contentId}`,
+    published: "",
+  };
+}
+
+function parseLockupPage(html, { requireLongDuration }) {
+  const data = extractYtInitialData(html);
+  if (!data) return [];
+  return collectLockups(data)
+    .map((lockup) => lockupToEntry(lockup, { requireLongDuration }))
+    .filter(Boolean);
+}
+
+async function withOfficialTitles(entries) {
+  const head = entries.slice(0, MAX_VIDEOS);
+  const resolved = [];
+
+  for (const entry of head) {
+    const id = extractVideoIdFromLink(entry.link);
+    if (!id) {
+      resolved.push(entry);
+      continue;
+    }
+
+    try {
+      const raw = await fetchText(
+        `https://www.youtube.com/oembed?url=${encodeURIComponent(entry.link)}&format=json`
+      );
+      const data = JSON.parse(raw);
+      resolved.push(data?.title ? { ...entry, title: data.title } : entry);
+    } catch (err) {
+      console.warn(`oembed title lookup failed for ${id}: ${err.message}`);
+      resolved.push(entry);
+    }
+  }
+
+  return [...resolved, ...entries.slice(MAX_VIDEOS)];
+}
+
+async function getLongFormEntries() {
+  const errors = [];
+
+  try {
+    const entries = parseEntries(await fetchText(LONG_FORM_FEED_URL));
+    if (entries.length > 0) {
+      console.log(`Using long-form playlist feed (${entries.length} entries).`);
+      return entries;
+    }
+    errors.push("long-form feed returned no entries");
+  } catch (err) {
+    errors.push(`long-form feed: ${err.message}`);
+  }
+
+  try {
+    const entries = parseLockupPage(await fetchText(LONG_FORM_PLAYLIST_URL), {
+      requireLongDuration: false,
+    });
+    if (entries.length > 0) {
+      console.log(`Using long-form playlist page fallback (${entries.length} entries).`);
+      return entries;
+    }
+    errors.push("long-form playlist page returned no entries");
+  } catch (err) {
+    errors.push(`long-form playlist page: ${err.message}`);
+  }
+
+  try {
+    const entries = parseLockupPage(await fetchText(VIDEOS_TAB_URL), {
+      requireLongDuration: true,
+    });
+    if (entries.length > 0) {
+      console.log(`Using Videos tab fallback (${entries.length} entries).`);
+      return await withOfficialTitles(entries);
+    }
+    errors.push("videos tab returned no entries");
+  } catch (err) {
+    errors.push(`videos tab: ${err.message}`);
+  }
+
+  throw new Error(`All YouTube sources failed: ${errors.join(" | ")}`);
+}
+
 function renderGrid(entries) {
-  const videos = entries.slice(0, MAX_VIDEOS).map((e) => {
-    const vid = extractVideoIdFromLink(e.link);
-    if (!vid) return null;
+  const videos = entries
+    .slice(0, MAX_VIDEOS)
+    .map((e) => {
+      const vid = extractVideoIdFromLink(e.link);
+      if (!vid) return null;
 
-    // "mqdefault.jpg" is smaller than hqdefault/maxres and looks cleaner in grids
-    const thumb = `https://img.youtube.com/vi/${vid}/mqdefault.jpg`;
+      // "mqdefault.jpg" is smaller than hqdefault/maxres and looks cleaner in grids
+      const thumb = `https://img.youtube.com/vi/${vid}/mqdefault.jpg`;
 
-    const safeTitle = escapeHtml(truncate(e.title, TITLE_MAX));
-    const href = escapeHtml(e.link);
+      const safeTitle = escapeHtml(truncate(e.title, TITLE_MAX));
+      const href = escapeHtml(e.link);
 
-    return { thumb, href, title: safeTitle };
-  }).filter(Boolean);
+      return { vid, thumb, href, title: safeTitle };
+    })
+    .filter(Boolean);
 
   if (videos.length === 0) {
     return "<!-- No videos found -->";
@@ -208,15 +414,14 @@ function replaceSection(readme, replacement) {
 }
 
 async function main() {
-  console.log("Fetching YouTube RSS feed...");
-  const xml = await fetchFeedXml();
-  const entries = parseEntries(xml);
+  console.log("Fetching latest long-form YouTube videos...");
+  const entries = await getLongFormEntries();
 
-  console.log(`Parsed ${entries.length} entries from feed.`);
-
-  if (entries.length === 0) {
-    throw new Error("No entries parsed from the feed. The feed format may have changed.");
-  }
+  const preview = entries.slice(0, MAX_VIDEOS).map((e) => {
+    const id = extractVideoIdFromLink(e.link);
+    return `${id ?? "?"} ${e.title}`;
+  });
+  console.log(`Found ${entries.length} long-form videos. Using: ${preview.join(" | ")}`);
 
   const newSection = renderGrid(entries);
   const readme = await fs.readFile(README_PATH, "utf8");
@@ -232,15 +437,10 @@ async function main() {
 }
 
 main().catch((err) => {
-  const strict = String(process.env.STRICT_YT_UPDATE ?? "false") === "true";
+  // Fail loudly by default so a broken source shows up as a failed run (and a
+  // notification) instead of the README silently going stale.
+  // Set STRICT_YT_UPDATE=false to tolerate temporary upstream issues.
+  const strict = String(process.env.STRICT_YT_UPDATE ?? "true") === "true";
   console.error("YouTube README update error:", err?.message ?? err);
-
-  // By default, do not fail the workflow on temporary upstream/feed issues.
-  // Set STRICT_YT_UPDATE=true to restore hard-fail behavior.
-  if (strict) {
-    process.exit(1);
-  }
-
-  console.warn("Continuing without failing workflow (STRICT_YT_UPDATE=false).");
-  process.exit(0);
+  process.exit(strict ? 1 : 0);
 });

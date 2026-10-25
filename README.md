@@ -24,25 +24,25 @@ Most people teach. I'd rather show you the actual build, including the parts tha
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=o1q_lG6NJJ0">
+        <img src="https://img.youtube.com/vi/o1q_lG6NJJ0/mqdefault.jpg" width="220" alt="It&#39;s official. My new chapter. 🟢" />
+      </a>
+      <br />
+      <sub><b>It&#39;s official. My new chapter. 🟢</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=YP8sb3VmlDQ">
+        <img src="https://img.youtube.com/vi/YP8sb3VmlDQ/mqdefault.jpg" width="220" alt="TanStack AI Found The Perfect Job For Jev" />
+      </a>
+      <br />
+      <sub><b>TanStack AI Found The Perfect Job For Jev</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=ZeXz1CHnCFg">
         <img src="https://img.youtube.com/vi/ZeXz1CHnCFg/mqdefault.jpg" width="220" alt="4 Open Source Tools That Feel Illegal To Be Free" />
       </a>
       <br />
       <sub><b>4 Open Source Tools That Feel Illegal To Be Free</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=F8AmlDmqybU">
-        <img src="https://img.youtube.com/vi/F8AmlDmqybU/mqdefault.jpg" width="220" alt="Building Games, Apps and Videos With AI (LIVE)" />
-      </a>
-      <br />
-      <sub><b>Building Games, Apps and Videos With AI (LIVE)</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/shorts/sRC9QExyvlU">
-        <img src="https://img.youtube.com/vi/sRC9QExyvlU/mqdefault.jpg" width="220" alt="I Need Your Help! ⚔️" />
-      </a>
-      <br />
-      <sub><b>I Need Your Help! ⚔️</b></sub>
     </td>
   </tr>
 </table>
