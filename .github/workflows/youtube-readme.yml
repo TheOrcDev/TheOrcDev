@@ -21,7 +21,7 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Update README from RSS
+      - name: Update README with latest long-form videos
         run: node update-youtube-readme.mjs
         env:
           MAX_VIDEOS: "3"
