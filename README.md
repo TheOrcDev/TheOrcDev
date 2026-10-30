@@ -25,17 +25,17 @@ Most people teach. I'd rather show you the actual build, including the parts tha
   <tr>
     <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=o1q_lG6NJJ0">
-        <img src="https://img.youtube.com/vi/o1q_lG6NJJ0/mqdefault.jpg" width="220" alt="It&#39;s official. My new chapter. 🟢" />
+        <img src="https://img.youtube.com/vi/o1q_lG6NJJ0/mqdefault.jpg" width="220" alt="My New Chapter In Life" />
       </a>
       <br />
-      <sub><b>It&#39;s official. My new chapter. 🟢</b></sub>
+      <sub><b>My New Chapter In Life</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=YP8sb3VmlDQ">
-        <img src="https://img.youtube.com/vi/YP8sb3VmlDQ/mqdefault.jpg" width="220" alt="TanStack AI Found The Perfect Job For Jev" />
+        <img src="https://img.youtube.com/vi/YP8sb3VmlDQ/mqdefault.jpg" width="220" alt="Is Jev The Smartest Way To Use TanStack AI?" />
       </a>
       <br />
-      <sub><b>TanStack AI Found The Perfect Job For Jev</b></sub>
+      <sub><b>Is Jev The Smartest Way To Use TanStack AI?</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=ZeXz1CHnCFg">
