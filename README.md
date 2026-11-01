@@ -25,10 +25,10 @@ Most people teach. I'd rather show you the actual build, including the parts tha
   <tr>
     <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=IeP8_4YlEdQ">
-        <img src="https://img.youtube.com/vi/IeP8_4YlEdQ/mqdefault.jpg" width="220" alt="TanStack AI 1.0 Is Out" />
+        <img src="https://img.youtube.com/vi/IeP8_4YlEdQ/mqdefault.jpg" width="220" alt="TanStack AI is Officially STABLE!" />
       </a>
       <br />
-      <sub><b>TanStack AI 1.0 Is Out</b></sub>
+      <sub><b>TanStack AI is Officially STABLE!</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=o1q_lG6NJJ0">
@@ -39,10 +39,10 @@ Most people teach. I'd rather show you the actual build, including the parts tha
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=YP8sb3VmlDQ">
-        <img src="https://img.youtube.com/vi/YP8sb3VmlDQ/mqdefault.jpg" width="220" alt="Is Jev The Smartest Way To Use TanStack AI?" />
+        <img src="https://img.youtube.com/vi/YP8sb3VmlDQ/mqdefault.jpg" width="220" alt="TanStack AI Found The Perfect Job For Jev" />
       </a>
       <br />
-      <sub><b>Is Jev The Smartest Way To Use TanStack AI?</b></sub>
+      <sub><b>TanStack AI Found The Perfect Job For Jev</b></sub>
     </td>
   </tr>
 </table>
