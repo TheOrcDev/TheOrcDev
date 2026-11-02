@@ -25,10 +25,10 @@ Most people teach. I'd rather show you the actual build, including the parts tha
   <tr>
     <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=IeP8_4YlEdQ">
-        <img src="https://img.youtube.com/vi/IeP8_4YlEdQ/mqdefault.jpg" width="220" alt="TanStack AI is Officially STABLE!" />
+        <img src="https://img.youtube.com/vi/IeP8_4YlEdQ/mqdefault.jpg" width="220" alt="TanStack AI 1.0 Is Out" />
       </a>
       <br />
-      <sub><b>TanStack AI is Officially STABLE!</b></sub>
+      <sub><b>TanStack AI 1.0 Is Out</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=o1q_lG6NJJ0">
