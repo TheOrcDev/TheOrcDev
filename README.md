@@ -24,6 +24,13 @@ Most people teach. I'd rather show you the actual build, including the parts tha
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=AKPsudm3M8U">
+        <img src="https://img.youtube.com/vi/AKPsudm3M8U/mqdefault.jpg" width="220" alt="I Turned One MP4 Into YouTube Style Streaming" />
+      </a>
+      <br />
+      <sub><b>I Turned One MP4 Into YouTube Style Streaming</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=IeP8_4YlEdQ">
         <img src="https://img.youtube.com/vi/IeP8_4YlEdQ/mqdefault.jpg" width="220" alt="TanStack AI 1.0 Is Out" />
       </a>
@@ -36,13 +43,6 @@ Most people teach. I'd rather show you the actual build, including the parts tha
       </a>
       <br />
       <sub><b>It&#39;s official. My new chapter. 🟢</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=YP8sb3VmlDQ">
-        <img src="https://img.youtube.com/vi/YP8sb3VmlDQ/mqdefault.jpg" width="220" alt="TanStack AI Found The Perfect Job For Jev" />
-      </a>
-      <br />
-      <sub><b>TanStack AI Found The Perfect Job For Jev</b></sub>
     </td>
   </tr>
 </table>
