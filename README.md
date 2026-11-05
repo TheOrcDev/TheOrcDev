@@ -24,11 +24,18 @@ Most people teach. I'd rather show you the actual build, including the parts tha
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=AKPsudm3M8U">
-        <img src="https://img.youtube.com/vi/AKPsudm3M8U/mqdefault.jpg" width="220" alt="I Turned One MP4 Into YouTube Style Streaming" />
+      <a href="https://www.youtube.com/watch?v=Jbv01HE1tRU">
+        <img src="https://img.youtube.com/vi/Jbv01HE1tRU/mqdefault.jpg" width="220" alt="Can You Really Host an App for $4 a Month?" />
       </a>
       <br />
-      <sub><b>I Turned One MP4 Into YouTube Style Streaming</b></sub>
+      <sub><b>Can You Really Host an App for $4 a Month?</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=AKPsudm3M8U">
+        <img src="https://img.youtube.com/vi/AKPsudm3M8U/mqdefault.jpg" width="220" alt="Upload One Video, Get Every Format Automatically" />
+      </a>
+      <br />
+      <sub><b>Upload One Video, Get Every Format Automatically</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=IeP8_4YlEdQ">
@@ -36,13 +43,6 @@ Most people teach. I'd rather show you the actual build, including the parts tha
       </a>
       <br />
       <sub><b>TanStack AI 1.0 Is Out</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=o1q_lG6NJJ0">
-        <img src="https://img.youtube.com/vi/o1q_lG6NJJ0/mqdefault.jpg" width="220" alt="It&#39;s official. My new chapter. 🟢" />
-      </a>
-      <br />
-      <sub><b>It&#39;s official. My new chapter. 🟢</b></sub>
     </td>
   </tr>
 </table>
