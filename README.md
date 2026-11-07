@@ -32,10 +32,10 @@ Most people teach. I'd rather show you the actual build, including the parts tha
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=AKPsudm3M8U">
-        <img src="https://img.youtube.com/vi/AKPsudm3M8U/mqdefault.jpg" width="220" alt="Upload One Video, Get Every Format Automatically" />
+        <img src="https://img.youtube.com/vi/AKPsudm3M8U/mqdefault.jpg" width="220" alt="I Turned One MP4 Into YouTube Style Streaming" />
       </a>
       <br />
-      <sub><b>Upload One Video, Get Every Format Automatically</b></sub>
+      <sub><b>I Turned One MP4 Into YouTube Style Streaming</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=IeP8_4YlEdQ">
