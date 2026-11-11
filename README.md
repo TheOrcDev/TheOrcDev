@@ -24,6 +24,13 @@ Most people teach. I'd rather show you the actual build, including the parts tha
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=R9EL6yq8nXs">
+        <img src="https://img.youtube.com/vi/R9EL6yq8nXs/mqdefault.jpg" width="220" alt="8 AI Models, 1 Insult Arena: Who Wins?" />
+      </a>
+      <br />
+      <sub><b>8 AI Models, 1 Insult Arena: Who Wins?</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=Jbv01HE1tRU">
         <img src="https://img.youtube.com/vi/Jbv01HE1tRU/mqdefault.jpg" width="220" alt="Can You Really Host an App for $4 a Month?" />
       </a>
@@ -36,13 +43,6 @@ Most people teach. I'd rather show you the actual build, including the parts tha
       </a>
       <br />
       <sub><b>I Turned One MP4 Into YouTube Style Streaming</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=IeP8_4YlEdQ">
-        <img src="https://img.youtube.com/vi/IeP8_4YlEdQ/mqdefault.jpg" width="220" alt="TanStack AI 1.0 Is Out" />
-      </a>
-      <br />
-      <sub><b>TanStack AI 1.0 Is Out</b></sub>
     </td>
   </tr>
 </table>
