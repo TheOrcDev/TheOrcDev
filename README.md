@@ -25,10 +25,10 @@ Most people teach. I'd rather show you the actual build, including the parts tha
   <tr>
     <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=R9EL6yq8nXs">
-        <img src="https://img.youtube.com/vi/R9EL6yq8nXs/mqdefault.jpg" width="220" alt="8 AI Models, 1 Insult Arena: Who Wins?" />
+        <img src="https://img.youtube.com/vi/R9EL6yq8nXs/mqdefault.jpg" width="220" alt="I Built a Live AI Roast Battle on Postgres" />
       </a>
       <br />
-      <sub><b>8 AI Models, 1 Insult Arena: Who Wins?</b></sub>
+      <sub><b>I Built a Live AI Roast Battle on Postgres</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=Jbv01HE1tRU">
