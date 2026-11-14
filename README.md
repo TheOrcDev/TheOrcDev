@@ -25,17 +25,17 @@ Most people teach. I'd rather show you the actual build, including the parts tha
   <tr>
     <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=R9EL6yq8nXs">
-        <img src="https://img.youtube.com/vi/R9EL6yq8nXs/mqdefault.jpg" width="220" alt="I Built a Live AI Roast Battle on Postgres" />
+        <img src="https://img.youtube.com/vi/R9EL6yq8nXs/mqdefault.jpg" width="220" alt="Neon Just Made Postgres Realtime" />
       </a>
       <br />
-      <sub><b>I Built a Live AI Roast Battle on Postgres</b></sub>
+      <sub><b>Neon Just Made Postgres Realtime</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=Jbv01HE1tRU">
-        <img src="https://img.youtube.com/vi/Jbv01HE1tRU/mqdefault.jpg" width="220" alt="I Run 5 Apps on One $20 Server" />
+        <img src="https://img.youtube.com/vi/Jbv01HE1tRU/mqdefault.jpg" width="220" alt="Can You Really Host an App for $4 a Month?" />
       </a>
       <br />
-      <sub><b>I Run 5 Apps on One $20 Server</b></sub>
+      <sub><b>Can You Really Host an App for $4 a Month?</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=AKPsudm3M8U">
