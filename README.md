@@ -24,6 +24,13 @@ Most people teach. I'd rather show you the actual build, including the parts tha
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=y1rZnXHXbZ0">
+        <img src="https://img.youtube.com/vi/y1rZnXHXbZ0/mqdefault.jpg" width="220" alt="Vercel Shipped Next.js for AI Agents" />
+      </a>
+      <br />
+      <sub><b>Vercel Shipped Next.js for AI Agents</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=R9EL6yq8nXs">
         <img src="https://img.youtube.com/vi/R9EL6yq8nXs/mqdefault.jpg" width="220" alt="Neon Just Made Postgres Realtime" />
       </a>
@@ -36,13 +43,6 @@ Most people teach. I'd rather show you the actual build, including the parts tha
       </a>
       <br />
       <sub><b>Can You Really Host an App for $4 a Month?</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=AKPsudm3M8U">
-        <img src="https://img.youtube.com/vi/AKPsudm3M8U/mqdefault.jpg" width="220" alt="I Turned One MP4 Into YouTube Style Streaming" />
-      </a>
-      <br />
-      <sub><b>I Turned One MP4 Into YouTube Style Streaming</b></sub>
     </td>
   </tr>
 </table>
