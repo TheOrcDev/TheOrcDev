@@ -24,6 +24,13 @@ Most people teach. I'd rather show you the actual build, including the parts tha
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=TgMs2sULqEY">
+        <img src="https://img.youtube.com/vi/TgMs2sULqEY/mqdefault.jpg" width="220" alt="I Deployed My Full-Stack App Without Touching a Ser…" />
+      </a>
+      <br />
+      <sub><b>I Deployed My Full-Stack App Without Touching a Ser…</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=zQPZ2982i78">
         <img src="https://img.youtube.com/vi/zQPZ2982i78/mqdefault.jpg" width="220" alt="UI SDK Might Change How We Build UI Forever" />
       </a>
@@ -36,13 +43,6 @@ Most people teach. I'd rather show you the actual build, including the parts tha
       </a>
       <br />
       <sub><b>What Is Eve and How Does It Work?</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=R9EL6yq8nXs">
-        <img src="https://img.youtube.com/vi/R9EL6yq8nXs/mqdefault.jpg" width="220" alt="Neon Just Made Postgres Realtime" />
-      </a>
-      <br />
-      <sub><b>Neon Just Made Postgres Realtime</b></sub>
     </td>
   </tr>
 </table>
