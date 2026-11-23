@@ -24,6 +24,13 @@ Most people teach. I'd rather show you the actual build, including the parts tha
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=n8iQUx4Is90">
+        <img src="https://img.youtube.com/vi/n8iQUx4Is90/mqdefault.jpg" width="220" alt="I Was Paying $10 A Month For Canva, So I Built My O…" />
+      </a>
+      <br />
+      <sub><b>I Was Paying $10 A Month For Canva, So I Built My O…</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=TgMs2sULqEY">
         <img src="https://img.youtube.com/vi/TgMs2sULqEY/mqdefault.jpg" width="220" alt="I Deployed My Full-Stack App Without Touching a Ser…" />
       </a>
@@ -36,13 +43,6 @@ Most people teach. I'd rather show you the actual build, including the parts tha
       </a>
       <br />
       <sub><b>UI SDK Might Change How We Build UI Forever</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=y1rZnXHXbZ0">
-        <img src="https://img.youtube.com/vi/y1rZnXHXbZ0/mqdefault.jpg" width="220" alt="What Is Eve and How Does It Work?" />
-      </a>
-      <br />
-      <sub><b>What Is Eve and How Does It Work?</b></sub>
     </td>
   </tr>
 </table>
