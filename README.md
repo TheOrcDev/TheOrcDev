@@ -25,10 +25,10 @@ Most people teach. I'd rather show you the actual build, including the parts tha
   <tr>
     <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=n8iQUx4Is90">
-        <img src="https://img.youtube.com/vi/n8iQUx4Is90/mqdefault.jpg" width="220" alt="I Was Paying $10 A Month For Canva, So I Built My O…" />
+        <img src="https://img.youtube.com/vi/n8iQUx4Is90/mqdefault.jpg" width="220" alt="Free Canva Alternative Nobody Is Talking About" />
       </a>
       <br />
-      <sub><b>I Was Paying $10 A Month For Canva, So I Built My O…</b></sub>
+      <sub><b>Free Canva Alternative Nobody Is Talking About</b></sub>
     </td>
     <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=TgMs2sULqEY">
