@@ -24,6 +24,13 @@ Most people teach. I'd rather show you the actual build, including the parts tha
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=piWo_aCmXq4">
+        <img src="https://img.youtube.com/vi/piWo_aCmXq4/mqdefault.jpg" width="220" alt="This Open Source Project Is a Must in the Agentic E…" />
+      </a>
+      <br />
+      <sub><b>This Open Source Project Is a Must in the Agentic E…</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=n8iQUx4Is90">
         <img src="https://img.youtube.com/vi/n8iQUx4Is90/mqdefault.jpg" width="220" alt="Free Canva Alternative Nobody Is Talking About" />
       </a>
@@ -36,13 +43,6 @@ Most people teach. I'd rather show you the actual build, including the parts tha
       </a>
       <br />
       <sub><b>I Deployed My Full-Stack App Without Touching a Ser…</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=zQPZ2982i78">
-        <img src="https://img.youtube.com/vi/zQPZ2982i78/mqdefault.jpg" width="220" alt="UI SDK Might Change How We Build UI Forever" />
-      </a>
-      <br />
-      <sub><b>UI SDK Might Change How We Build UI Forever</b></sub>
     </td>
   </tr>
 </table>
